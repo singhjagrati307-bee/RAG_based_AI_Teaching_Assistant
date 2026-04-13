@@ -1,0 +1,6 @@
+In the manufacturing process machining lecture series by professor Joyjeet Ghose sir Here are video. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Manufacturing Proces","number":"11","start":123.4,"end":125.28,"text":" in a shaper machine."},{"title":"Manufacturing Proces","number":"11","start":90.2,"end":94.2,"text":" job similar which is done on a shaper machine."},{"title":"Manufacturing Proces","number":"11","start":212.24,"end":214.16,"text":" machine which is not there in a shaper machine."},{"title":"Manufacturing Proces","number":"11","start":15.2,"end":20.92,"text":" He will be discussing functioning of a slaughter machine, comparison of shaper and slaughter,"},{"title":"Manufacturing Proces","number":"11","start":97.68,"end":101.16,"text":" Slaughter machine was invented much before shaper machine was invented."}]
+---------------------------------
+"where you taught about shaper machine"
+user asked this question related to the video chunks,you have to answer where and how much content is taught where (in which video and at what time stamp) and guide the user to go to that particular video. if user asks unrelated question ,tell him that you can only answer related to the course

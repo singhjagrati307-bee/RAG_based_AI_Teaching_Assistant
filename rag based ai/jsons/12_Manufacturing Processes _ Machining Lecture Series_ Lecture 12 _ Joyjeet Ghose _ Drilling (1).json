@@ -1,0 +1,3043 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 0.0,
+            "end": 6.24,
+            "text": " Welcome to Manufacturing Processes, Machining and Machine Tools lectures by Professor Joy"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 6.24,
+            "end": 7.92,
+            "text": " G Tagosh."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 7.92,
+            "end": 11.36,
+            "text": " This is the twelfth lecture of a series of lectures."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 11.36,
+            "end": 16.080000000000002,
+            "text": " This lecture will be on Drilling, Drilling Machine and related aspects."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 16.080000000000002,
+            "end": 22.36,
+            "text": " He will be discussing about Drilling, Types of Drilling Machine, Drilling Machine Components,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 22.36,
+            "end": 28.240000000000002,
+            "text": " Size or Specification of a Drilling Machine, Operational Setup of Drilling, Drill Jigs,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 28.24,
+            "end": 34.68,
+            "text": " Tool Holding Devices, Types of Drills, Twist Drill Geometry and Nomenclature, Drilling"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 34.68,
+            "end": 39.879999999999995,
+            "text": " Operations, Drilling Cutting Speed and Feed and MRR in Drilling."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 39.879999999999995,
+            "end": 43.4,
+            "text": " So, do not miss and watch the full video."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 43.4,
+            "end": 49.04,
+            "text": " For the next video in the lecture series, please click the suggested video link above."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 49.04,
+            "end": 54.239999999999995,
+            "text": " You may also click on the playlist at end of the video to access my videos."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 54.24,
+            "end": 59.2,
+            "text": " Please subscribe this channel and yes, do not forget to like and share."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 59.2,
+            "end": 64.48,
+            "text": " Also click on the bell icon to receive instant information of new videos uploaded."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 64.48,
+            "end": 66.8,
+            "text": " Thank you."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 66.8,
+            "end": 76.48,
+            "text": " Hello friends, welcome to this lecture."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 76.48,
+            "end": 81.44,
+            "text": " In this lecture we will be discussing about Drilling, Drilling Machine Tool and about"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 81.44,
+            "end": 83.44,
+            "text": " Twist Drill and related aspects."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 83.64,
+            "end": 85.64,
+            "text": " So, let's start."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 85.64,
+            "end": 87.64,
+            "text": " So, what is drilling?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 87.64,
+            "end": 93.64,
+            "text": " Drilling is basically an operation of generating or originating a cylindrical hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 93.64,
+            "end": 96.64,
+            "text": " Very important, it should be a cylindrical hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 96.64,
+            "end": 100.64,
+            "text": " A cylindrical hole may be a through hole or it may be a blind hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 100.64,
+            "end": 106.64,
+            "text": " It may be of different diameters or it may be drilling may be an operation of already"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 106.84,
+            "end": 114.84,
+            "text": " enlarging an already existing hole, cylindrical hole by means of a rotating cutting tool."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 114.84,
+            "end": 119.84,
+            "text": " Cutting tool may be of different diameters in a solid body."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 119.84,
+            "end": 124.84,
+            "text": " And the tool that we use in drilling is called drill tool."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 124.84,
+            "end": 128.84,
+            "text": " Sometimes it is referred to as drill bit."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 128.84,
+            "end": 134.84,
+            "text": " Similar to drilling or operations that can be performed on a drilling machine apart from"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 135.04,
+            "end": 140.04,
+            "text": " drilling are boring, reaming, counter boarding, counter sinking, tapping."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 140.04,
+            "end": 145.04,
+            "text": " These are the operations which also are performed on the same drilling machine and are related"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 145.04,
+            "end": 146.04,
+            "text": " to drilling operations."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 146.04,
+            "end": 149.04,
+            "text": " So, these operations also we will be discussing."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 149.04,
+            "end": 156.04,
+            "text": " Now, what are the factors or parameters that are very important in order to drill a quality hole?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 156.04,
+            "end": 164.04,
+            "text": " Firstly, the cutting speed is very important, the feed, the diameter of the drill, the application"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 164.23999999999998,
+            "end": 171.23999999999998,
+            "text": " of cutting fluids and its type, ratio of length of diameter of the hole, type of the drill"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 171.23999999999998,
+            "end": 180.23999999999998,
+            "text": " tool and material properties of the workpiece, the tool material, rigidity of the work holding"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 180.23999999999998,
+            "end": 182.23999999999998,
+            "text": " devices and the uses of jigs."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 182.23999999999998,
+            "end": 185.23999999999998,
+            "text": " These are the factors which are very important."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 185.23999999999998,
+            "end": 191.23999999999998,
+            "text": " You have to consider these factors in order to drill an accurately accurate hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 191.44,
+            "end": 201.44,
+            "text": " And mind you, drilling is one of the most important and essential operations that is"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 201.44,
+            "end": 204.44,
+            "text": " performed in a metal working shop."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 204.44,
+            "end": 213.44,
+            "text": " And it is very difficult to drill a hole of exact size at exact location."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 213.64,
+            "end": 222.64,
+            "text": " It is extremely, extremely difficult to drill an exact hole at exact location."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 222.64,
+            "end": 230.64,
+            "text": " So, this requires skill or certain other means which we will be discussing during the lecture"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 230.64,
+            "end": 234.64,
+            "text": " so that it is possible to drill such quality holes."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 234.64,
+            "end": 240.64,
+            "text": " Even then, it doesn't matter how accurate you are, you cannot drill a perfect circular"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 240.64,
+            "end": 242.64,
+            "text": " hole in a perfect location."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 242.83999999999997,
+            "end": 243.83999999999997,
+            "text": " It is impossible."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 245.83999999999997,
+            "end": 247.83999999999997,
+            "text": " So, what are the different types of drilling machines?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 247.83999999999997,
+            "end": 253.83999999999997,
+            "text": " The most common type and the simplest of them are called sensitive drill press."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 253.83999999999997,
+            "end": 263.84,
+            "text": " Sensitive drill press is basically a machine where the spindle and the drill head are balanced,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 263.84,
+            "end": 264.84,
+            "text": " counterbalanced."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 265.03999999999996,
+            "end": 273.03999999999996,
+            "text": " Drilling head are counterbalanced so that the amount of load you are applying can be"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 273.03999999999996,
+            "end": 275.03999999999996,
+            "text": " felt by the hand."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 275.03999999999996,
+            "end": 281.03999999999996,
+            "text": " So, the hand is, this feed is provided manually and the amount of load the operator applies"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 281.03999999999996,
+            "end": 286.03999999999996,
+            "text": " on the workpiece can be felt on the palm of the operator."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 286.03999999999996,
+            "end": 288.03999999999996,
+            "text": " So, that's why it's called sensitive drill press."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 288.24,
+            "end": 293.24,
+            "text": " Slight variation to sensitive drill press is upright drill press or simple drill press."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 295.24,
+            "end": 300.24,
+            "text": " So, here it is intended for larger size workpieces whereas sensitive drill press was intended"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 300.24,
+            "end": 304.24,
+            "text": " for a very smaller size workpieces and small holes basically."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 304.24,
+            "end": 310.24,
+            "text": " So, here you can drill up to around 50 mm hole diameter can be drilled by this process"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 310.24,
+            "end": 312.24,
+            "text": " and it can be bench mounted or foam mounted."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 312.44,
+            "end": 318.44,
+            "text": " Normally it is floor mounted and the table can be moved up and down on the column and"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 318.44,
+            "end": 324.44,
+            "text": " automatic feed can be given and feed stops are also provided to control the amount of"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 324.44,
+            "end": 327.44,
+            "text": " feed given during a particular drilling operations."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 328.44,
+            "end": 331.44,
+            "text": " So, all this can be done in an upright drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 331.44,
+            "end": 334.44,
+            "text": " So, this is a schematic diagram of an upright drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 334.44,
+            "end": 335.44,
+            "text": " You can see the table."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 335.44,
+            "end": 338.44,
+            "text": " Table can move up and down and this is the drill bit."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 338.64,
+            "end": 343.64,
+            "text": " So, and there are stops that you can set the stops that means the drill will move up."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 343.64,
+            "end": 345.64,
+            "text": " Reset distance only."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 345.64,
+            "end": 347.64,
+            "text": " So, this is possible in an upright drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 348.64,
+            "end": 349.64,
+            "text": " Then we have the radial drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 349.64,
+            "end": 353.64,
+            "text": " It is a large drilling machine and it's a production machines."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 353.64,
+            "end": 360.64,
+            "text": " It is mainly used for drilling holes in large castings, weldments, forging etc."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 361.64,
+            "end": 367.64,
+            "text": " It has a radial arm which is around 3 to 12 feet long and on this radial arm there is"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 367.84,
+            "end": 370.84,
+            "text": " a drill head which can move radially in and radially out."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 370.84,
+            "end": 374.84,
+            "text": " The arm can rotate about 180 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 374.84,
+            "end": 381.84,
+            "text": " So, it can cover a wide area and large number of holes can be drilled by positioning the"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 381.84,
+            "end": 383.84,
+            "text": " workpiece on the table."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 384.84,
+            "end": 386.84,
+            "text": " So, this is radial drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 386.84,
+            "end": 388.84,
+            "text": " Some images I have of radial drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 388.84,
+            "end": 390.84,
+            "text": " You can see this is the arm."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 391.03999999999996,
+            "end": 397.03999999999996,
+            "text": " This arm can rotate about this column and this drilling head can move in and out."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 400.03999999999996,
+            "end": 402.03999999999996,
+            "text": " So, here this is the radial drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 403.03999999999996,
+            "end": 407.03999999999996,
+            "text": " See here, this is the radial arm which can move in and out."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 407.03999999999996,
+            "end": 409.03999999999996,
+            "text": " Then we have the multiple spindle drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 409.03999999999996,
+            "end": 414.03999999999996,
+            "text": " In multiple spindle drilling machine, there is a single motor which supplies the power"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 414.03999999999996,
+            "end": 416.03999999999996,
+            "text": " to all the spindles."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 416.03999999999996,
+            "end": 419.03999999999996,
+            "text": " So, there are multiple spindles are there that's why it is called multiple spindle and"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 419.24,
+            "end": 421.24,
+            "text": " the RPM of all the spindles will be same."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 423.24,
+            "end": 426.24,
+            "text": " So, this is called multiple spindle drilling machine and we have gang drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 426.24,
+            "end": 431.24,
+            "text": " In gang drilling machine, we have several spindles and the power from each of the spindles"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 431.24,
+            "end": 433.24,
+            "text": " are provided separately."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 433.24,
+            "end": 436.24,
+            "text": " That means each of the spindle can run at a different RPM."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 437.24,
+            "end": 441.24,
+            "text": " Now, here in this type of machine, actually drilling is followed by several other operations"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 441.24,
+            "end": 446.24,
+            "text": " like reaming, boring or tapping or something like that or counter boring or counter sinking."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 446.44,
+            "end": 451.44,
+            "text": " So, what normally it is done in industry is that in one station drilling is done and followed"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 451.44,
+            "end": 454.44,
+            "text": " by the next operation, the next operation, next operation and the work leaves."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 454.44,
+            "end": 458.44,
+            "text": " So, works enters here in a fixture and moves forward and then leaves."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 459.44,
+            "end": 463.44,
+            "text": " So, for such applications, we use gang drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 464.44,
+            "end": 467.44,
+            "text": " Okay, these are some of the drilling machines that we have discussed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 467.44,
+            "end": 472.44,
+            "text": " Now, we will be discussing the drill components, major components of a sensitive drill press."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 472.64,
+            "end": 476.64,
+            "text": " As you can see in front of you, there is a bed which is normally made of cast iron."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 477.64,
+            "end": 480.64,
+            "text": " On the rear side of the bed, you have a circular column."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 480.64,
+            "end": 483.64,
+            "text": " The circular column is a drilling machine so that the table can move up and down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 484.64,
+            "end": 486.64,
+            "text": " On top of the column, we have the drill head."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 486.64,
+            "end": 487.64,
+            "text": " This is called the drill head."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 489.64,
+            "end": 494.64,
+            "text": " The drill head consists of the mechanism that is required to drive the spindle or rotate"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 494.64,
+            "end": 498.64,
+            "text": " the spindle and the mechanism that is required to feed the spindle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 498.84,
+            "end": 504.84,
+            "text": " That means the spindle will rotate as well as it will be, it will move down, up and down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 504.84,
+            "end": 505.84,
+            "text": " It will move up and down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 505.84,
+            "end": 507.84,
+            "text": " So, it is rotating and moving up and down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 508.84,
+            "end": 510.84,
+            "text": " So, it is a mechanism that is used."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 511.84,
+            "end": 512.84,
+            "text": " It is called quill assembly mechanism."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 513.84,
+            "end": 515.84,
+            "text": " So, we will be discussing this quill assembly mechanism."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 515.84,
+            "end": 516.84,
+            "text": " It is a very interesting mechanism."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 517.84,
+            "end": 519.84,
+            "text": " See, the thing is rotating as well as it is moving up and down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 520.84,
+            "end": 523.84,
+            "text": " So, what type of mechanism is capable of providing such motions?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 523.84,
+            "end": 524.84,
+            "text": " We will see that."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 525.0400000000001,
+            "end": 527.0400000000001,
+            "text": " So, the drive mechanism is pretty simple here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 527.0400000000001,
+            "end": 530.0400000000001,
+            "text": " The motor supplies the power to the spindle directly using belt pulley arrangement."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 531.0400000000001,
+            "end": 535.0400000000001,
+            "text": " You can change the combination of the diameter of the belt, diameter of the pulleys and you"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 535.0400000000001,
+            "end": 537.0400000000001,
+            "text": " can change the RPM of the spindle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 541.0400000000001,
+            "end": 543.0400000000001,
+            "text": " This is the quill arrangement."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 543.0400000000001,
+            "end": 544.0400000000001,
+            "text": " This is the quill arrangement."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 546.0400000000001,
+            "end": 547.0400000000001,
+            "text": " The video is not working."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 547.0400000000001,
+            "end": 553.0400000000001,
+            "text": " So, here, the power from this motor is supplied to the cone pulley here and the motor is supplied"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 553.24,
+            "end": 555.24,
+            "text": " to the cone pulley here and this is the spindle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 556.24,
+            "end": 557.24,
+            "text": " Spindle carries the drill chuck."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 557.24,
+            "end": 558.24,
+            "text": " So, this is rotating."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 560.24,
+            "end": 564.24,
+            "text": " Now, this chuck, this spindle is mounted on two bearings."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 564.24,
+            "end": 568.24,
+            "text": " This is one bearing here and this is another bearing here apart from the two bearings here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 569.24,
+            "end": 572.24,
+            "text": " So, there are two bearings here and there is a hollow tube."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 574.24,
+            "end": 579.24,
+            "text": " This spindle runs through this hollow tube on a bearing."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 580.24,
+            "end": 581.24,
+            "text": " So, it is rotating."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 581.44,
+            "end": 586.44,
+            "text": " The spindle is rotating but this hollow tube is not rotating because it is inside it is"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 586.44,
+            "end": 593.44,
+            "text": " the spindle is held in a bearing and outside contains outside of the hollow tube contains"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 593.44,
+            "end": 594.44,
+            "text": " a rack."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 595.44,
+            "end": 601.44,
+            "text": " Now, this rack matches with a pinion gear and this pinion gear is directly mounted to"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 601.44,
+            "end": 602.44,
+            "text": " the hand wheel."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 604.44,
+            "end": 608.44,
+            "text": " So, this is this weight of coming down is counterbalanced by this hand wheel."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 608.6400000000001,
+            "end": 610.6400000000001,
+            "text": " So, you can feel the weight in your hand."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 612.6400000000001,
+            "end": 617.6400000000001,
+            "text": " So, as you are rotating this hand wheel, this will rotate and as this rotates depending"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 617.6400000000001,
+            "end": 624.6400000000001,
+            "text": " on the direction of rotation, the rack will cause the tube or hollow tube to move up and"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 624.6400000000001,
+            "end": 626.6400000000001,
+            "text": " down which contains the spindle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 626.6400000000001,
+            "end": 630.6400000000001,
+            "text": " The spindle also will move up and down along with the hollow tube."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 631.6400000000001,
+            "end": 634.6400000000001,
+            "text": " So, it is rotating inside and as well as it is moving up and down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 634.6400000000001,
+            "end": 635.6400000000001,
+            "text": " So, this is the quill assembly."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 638.6400000000001,
+            "end": 639.6400000000001,
+            "text": " This is how actually taking place."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 639.6400000000001,
+            "end": 643.6400000000001,
+            "text": " This is the pinion which rotates the hollow tube inside there is a bearing on which the"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 643.6400000000001,
+            "end": 648.6400000000001,
+            "text": " spindles is mounted and as you rotate this, this will rotate and it will cause it to move"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 648.6400000000001,
+            "end": 651.6400000000001,
+            "text": " up and down depending on the direction of rotation of the hand wheel."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 656.6400000000001,
+            "end": 658.6400000000001,
+            "text": " Okay, how do you specify the drilling machine?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 658.6400000000001,
+            "end": 662.6400000000001,
+            "text": " You specify the drilling machine by twice the distance between the center of this spindle"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 662.6400000000001,
+            "end": 663.6400000000001,
+            "text": " and the inner face of the column."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 663.84,
+            "end": 669.84,
+            "text": " The maximum length of quill travel, the size of the taper of the spindle, the power of"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 669.84,
+            "end": 672.84,
+            "text": " the motor and the number of spindle speed and feed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 673.84,
+            "end": 678.84,
+            "text": " So, these are the basic parameters which you must define to define a drilling machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 679.84,
+            "end": 684.84,
+            "text": " Okay, how do you hold a workpiece on the table?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 684.84,
+            "end": 685.84,
+            "text": " You can use vices."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 685.84,
+            "end": 687.84,
+            "text": " Already I have discussed in shaping machine also."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 688.84,
+            "end": 689.84,
+            "text": " You can use vices."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 690.0400000000001,
+            "end": 691.0400000000001,
+            "text": " There are various types."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 692.0400000000001,
+            "end": 697.0400000000001,
+            "text": " Plane wise, swivel base wise, universal wise, angle plates, drill jigs, clamps."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 698.0400000000001,
+            "end": 700.0400000000001,
+            "text": " I will discuss clamps and bolts are also used."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 700.0400000000001,
+            "end": 702.0400000000001,
+            "text": " So, I will discuss drill bit in slight details."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 702.0400000000001,
+            "end": 704.0400000000001,
+            "text": " Drill bits might not be known to you."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 704.0400000000001,
+            "end": 706.0400000000001,
+            "text": " So, I will be discussing drill bits."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 707.0400000000001,
+            "end": 710.0400000000001,
+            "text": " Okay, the drill bits are how do you go about drilling a hole?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 711.0400000000001,
+            "end": 717.0400000000001,
+            "text": " For make a hole, I said it is extremely difficult job to correctly drill a hole at correct position."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 717.24,
+            "end": 721.24,
+            "text": " What the operator normal procedure is that manually if you are drilling a hole, you will"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 721.24,
+            "end": 726.24,
+            "text": " mark it by the chalk, wet chalk and then allow it to dry."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 726.24,
+            "end": 731.24,
+            "text": " Then locate the center of the hole and mark it."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 732.24,
+            "end": 739.24,
+            "text": " Then take it to the table, clamp it, then bring the position of the drill at the or"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 739.24,
+            "end": 744.24,
+            "text": " you will use the center drill to make a small hole at the center."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 744.44,
+            "end": 749.44,
+            "text": " Then you will feed the drill tool and bring it to relative position at the center of the"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 749.44,
+            "end": 752.44,
+            "text": " marking and then drill the hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 752.44,
+            "end": 754.44,
+            "text": " So, this is a very very cumbersome process."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 754.44,
+            "end": 759.44,
+            "text": " Imagine if you have to make four holes in a work piece and that thousand number of work"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 759.44,
+            "end": 765.44,
+            "text": " piece you have to drill in a day, then the fatigue, amount of fatigue and the amount"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 765.44,
+            "end": 770.44,
+            "text": " of error that may happen, amount of rejection that may take place will be huge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 770.6400000000001,
+            "end": 775.6400000000001,
+            "text": " So, in industry you cannot allow such type of things to happen."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 775.6400000000001,
+            "end": 777.6400000000001,
+            "text": " Therefore, we use jigs."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 777.6400000000001,
+            "end": 783.6400000000001,
+            "text": " If a hole is required to be drilled on a large number in the same type of component, we use"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 783.6400000000001,
+            "end": 784.6400000000001,
+            "text": " drill jigs."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 784.6400000000001,
+            "end": 791.6400000000001,
+            "text": " A drill jig performs several functions like it holds the work piece, it locates the work"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 791.6400000000001,
+            "end": 794.6400000000001,
+            "text": " piece and guides the tool in correct position."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 795.6400000000001,
+            "end": 797.6400000000001,
+            "text": " It guides the tool in correct position."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 797.6400000000001,
+            "end": 799.6400000000001,
+            "text": " So, how does this function?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 799.84,
+            "end": 801.84,
+            "text": " I will show you with a proper diagram here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 801.84,
+            "end": 803.84,
+            "text": " This is a model which I have made in PROE."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 803.84,
+            "end": 810.84,
+            "text": " This diagram I have taken from my book Tool Design where I have designed this drill jig."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 811.84,
+            "end": 812.84,
+            "text": " So, here this is the work piece."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 812.84,
+            "end": 816.84,
+            "text": " In this work piece, see this hole has to be drilled and in large number this has to be"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 816.84,
+            "end": 817.84,
+            "text": " drilled."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 817.84,
+            "end": 823.84,
+            "text": " So, therefore it is economical to design and fabricate a drill jig to hold this work piece."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 824.0400000000001,
+            "end": 830.0400000000001,
+            "text": " So, here there is a slot in which this work piece will fit and this clamp can be rotated"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 830.0400000000001,
+            "end": 831.0400000000001,
+            "text": " and clamped here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 831.0400000000001,
+            "end": 834.0400000000001,
+            "text": " See, places you can clamp this and you can tighten it."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 834.0400000000001,
+            "end": 836.0400000000001,
+            "text": " And then we reverse this plate."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 836.0400000000001,
+            "end": 840.0400000000001,
+            "text": " Once you reverse this plate, you will see there is number of bushes here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 840.0400000000001,
+            "end": 845.0400000000001,
+            "text": " So, it will reverse and it will rest on the table and what the operator has to do is that"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 845.0400000000001,
+            "end": 849.0400000000001,
+            "text": " he has to do nothing but to guide the tool through the bushes."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 849.24,
+            "end": 855.24,
+            "text": " These are the brass bushes and the operator only has to pass through this and you can"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 855.24,
+            "end": 857.24,
+            "text": " drill the hole in right position."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 857.24,
+            "end": 862.24,
+            "text": " Just imagine if manually operator has to locate these holes and drill these holes manually."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 862.24,
+            "end": 864.24,
+            "text": " It will be very cumbersome process."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 864.24,
+            "end": 867.24,
+            "text": " So, that is the use of drill jig."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 867.24,
+            "end": 869.24,
+            "text": " So, another drill jig here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 869.24,
+            "end": 874.24,
+            "text": " This is the flange type component where four holes to be constructed on a particular pitch"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 874.24,
+            "end": 875.24,
+            "text": " cycle diameter."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 875.44,
+            "end": 880.44,
+            "text": " So, here, so what is, there is a spindle here, central spindle in which the work is fitted"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 880.44,
+            "end": 885.44,
+            "text": " and clamped with a C washer and a knob here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 885.44,
+            "end": 891.44,
+            "text": " C washer and the knob, this is the work piece and this is the stud in which it is fixed"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 891.44,
+            "end": 893.44,
+            "text": " and on top there are four bushes."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 893.44,
+            "end": 895.44,
+            "text": " So, this is a table jig."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 895.44,
+            "end": 897.44,
+            "text": " This particular jig is called a table jig."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 897.44,
+            "end": 898.44,
+            "text": " It will be placed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 898.44,
+            "end": 899.44,
+            "text": " It has four legs."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 899.44,
+            "end": 902.44,
+            "text": " So, it will be placed on the table and the operator has to do is that guide the tool"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 902.44,
+            "end": 903.44,
+            "text": " through these holes."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 905.44,
+            "end": 907.44,
+            "text": " How do you hold the tool?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 907.44,
+            "end": 908.44,
+            "text": " You can hold chucks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 908.44,
+            "end": 911.44,
+            "text": " So, there are various types of chucks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 911.44,
+            "end": 913.44,
+            "text": " Keyed chucks, keyless chucks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 913.44,
+            "end": 917.44,
+            "text": " Chucks are mainly used for holding drills which are straight shanks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 917.44,
+            "end": 922.44,
+            "text": " A part shank drills or larger diameter drills are not held in chucks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 922.44,
+            "end": 924.44,
+            "text": " So, these are chucks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 924.44,
+            "end": 927.44,
+            "text": " Keyless chuck, this is a keyless chuck and this is a keyed chuck."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 927.6400000000001,
+            "end": 936.6400000000001,
+            "text": " Chucks, I repeat, are used for straight shank drills or smaller diameter drills which have"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 936.6400000000001,
+            "end": 937.6400000000001,
+            "text": " straight shanks."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 939.6400000000001,
+            "end": 945.6400000000001,
+            "text": " Okay, for larger diameter drills, we have taper shank and the taper fits to the slip"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 945.6400000000001,
+            "end": 947.6400000000001,
+            "text": " which is of the machine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 947.6400000000001,
+            "end": 951.6400000000001,
+            "text": " The machine has a particular taper size."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 951.6400000000001,
+            "end": 955.6400000000001,
+            "text": " So, if your drill shank matches that size, fine."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 955.84,
+            "end": 957.84,
+            "text": " So, otherwise you have to use sockets."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 957.84,
+            "end": 960.84,
+            "text": " If the size is smaller, you will use slips."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 960.84,
+            "end": 967.84,
+            "text": " You insert the slips in the tapered slip of the machine and then you insert the drill"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 968.84,
+            "end": 969.84,
+            "text": " like that."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 969.84,
+            "end": 970.84,
+            "text": " So, this is a slip."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 970.84,
+            "end": 973.84,
+            "text": " You put it in the machine slip and then the tool is inserted."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 973.84,
+            "end": 974.84,
+            "text": " Or you use a socket like this."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 974.84,
+            "end": 979.84,
+            "text": " The socket is inserted in the machine slip and then you insert the drill in the socket."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 980.84,
+            "end": 982.84,
+            "text": " So, this is a directly machined."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 983.0400000000001,
+            "end": 986.0400000000001,
+            "text": " In the machined spindle, if the size matches, then you can directly fit it."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 986.0400000000001,
+            "end": 988.0400000000001,
+            "text": " And you can see this is a flat end."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 988.0400000000001,
+            "end": 990.0400000000001,
+            "text": " There is a flat end in the slot."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 990.0400000000001,
+            "end": 991.0400000000001,
+            "text": " This flat end, this is called tang."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 991.0400000000001,
+            "end": 993.0400000000001,
+            "text": " Tang has to fit the slot."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 993.0400000000001,
+            "end": 995.0400000000001,
+            "text": " This is a tapered slip."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 995.0400000000001,
+            "end": 998.0400000000001,
+            "text": " And this is removed by a drift."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 998.0400000000001,
+            "end": 1003.0400000000001,
+            "text": " If a machine comes with a drift, you insert the drift like this."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1003.0400000000001,
+            "end": 1010.0400000000001,
+            "text": " Insert the drift like this and apply force here so that it comes down."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1010.24,
+            "end": 1013.24,
+            "text": " To remove the drill, you use the drift."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1013.24,
+            "end": 1015.24,
+            "text": " So, what are the different types of drill?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1015.24,
+            "end": 1018.24,
+            "text": " The most common type of drill is called the twist drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1018.24,
+            "end": 1024.24,
+            "text": " Twist drill has two fluids running helically on the body of the drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1024.24,
+            "end": 1030.24,
+            "text": " These two fluids intersect at the point and makes two cutting edges."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1031.24,
+            "end": 1038.24,
+            "text": " And the smaller diameter twist drills are called jawbuzz drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1038.44,
+            "end": 1044.44,
+            "text": " The twist drill can be low helix or high helix or standard twist drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1044.44,
+            "end": 1050.44,
+            "text": " Normally, around 20 degree is low helix, around 30 degree is standard and 40 degree is high helix."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1050.44,
+            "end": 1054.44,
+            "text": " So, obviously if it is high helix, the cutting efficiency will be high."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1054.44,
+            "end": 1057.44,
+            "text": " But the strength of the drill will decrease."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1057.44,
+            "end": 1061.44,
+            "text": " Whereas, for low helix, the strength will be high."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1061.44,
+            "end": 1065.44,
+            "text": " And for high helix, what happens in certain ductile material, highly ductile material,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1065.64,
+            "end": 1070.64,
+            "text": " if you are having a high helix, it tries to grab the material and move ahead."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1070.64,
+            "end": 1072.64,
+            "text": " So, that creates sometimes a problem."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1072.64,
+            "end": 1074.64,
+            "text": " Then we have straight fluid drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1074.64,
+            "end": 1077.64,
+            "text": " The straight fluid drills are extreme case of low helix."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1077.64,
+            "end": 1080.64,
+            "text": " These are required in highly ductile material like brass."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1080.64,
+            "end": 1086.64,
+            "text": " So, in those type of material, these type of drills are suitable."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1087.64,
+            "end": 1092.64,
+            "text": " Then we have three fluted drills or four fluted drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1092.8400000000001,
+            "end": 1098.8400000000001,
+            "text": " So, these have multiple flutes, more than two numbers running helically on the body."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1098.8400000000001,
+            "end": 1106.8400000000001,
+            "text": " Again, as the number of flutes increases, the cutting efficiency also increases, productivity increases."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1107.8400000000001,
+            "end": 1111.8400000000001,
+            "text": " Okay, so this is used for high productivity."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1111.8400000000001,
+            "end": 1112.8400000000001,
+            "text": " And we have stab drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1112.8400000000001,
+            "end": 1117.8400000000001,
+            "text": " Stab drills means the drill has different diameter at different part of the body."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1117.8400000000001,
+            "end": 1120.8400000000001,
+            "text": " So, for making stab holes, you require stab drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1121.04,
+            "end": 1123.04,
+            "text": " And this is a very interesting drill is there."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1123.04,
+            "end": 1125.04,
+            "text": " It is called oil hole drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1125.04,
+            "end": 1127.04,
+            "text": " Now, oil hole drill is a hollow drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1127.04,
+            "end": 1138.04,
+            "text": " And there is a hole running helically along with the fluids and the holes are surfacing at the point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1138.04,
+            "end": 1139.04,
+            "text": " Now, this is very important."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1139.04,
+            "end": 1142.04,
+            "text": " This is important for making a deep hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1142.04,
+            "end": 1146.04,
+            "text": " Now, when you are drilling deep hole, because of the jamming of the chips,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1146.04,
+            "end": 1150.04,
+            "text": " the oil does not or the cutting fluid does not reach the point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1150.24,
+            "end": 1157.24,
+            "text": " Now, here for oil hole drills, if you pass the cutting fluid through the body,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1157.24,
+            "end": 1160.24,
+            "text": " through the center of this, it will reach the point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1160.24,
+            "end": 1162.24,
+            "text": " This is called oil hole drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1168.24,
+            "end": 1171.24,
+            "text": " So, this is center drill to make center hole punch."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1171.24,
+            "end": 1173.24,
+            "text": " And then we start drilling."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1175.24,
+            "end": 1178.24,
+            "text": " Okay, so we will discuss the elements of a drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1178.44,
+            "end": 1180.44,
+            "text": " Main important points of a drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1180.44,
+            "end": 1181.44,
+            "text": " First is the axis."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1181.44,
+            "end": 1186.44,
+            "text": " Axis is the line passing through the center of the drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1186.44,
+            "end": 1190.44,
+            "text": " Or you can say it is passing through the wave of the drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1193.44,
+            "end": 1196.44,
+            "text": " It runs through the wave and is perpendicular to the diameter."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1196.44,
+            "end": 1198.44,
+            "text": " It is the center line of the tool."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1198.44,
+            "end": 1202.44,
+            "text": " Body is, this part is called the body."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1202.44,
+            "end": 1204.44,
+            "text": " It extends from the side to the point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1205.44,
+            "end": 1207.44,
+            "text": " And it contains the fluids."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1207.64,
+            "end": 1209.64,
+            "text": " That is called the body."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1209.64,
+            "end": 1211.64,
+            "text": " And this part is called the shank."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1211.64,
+            "end": 1213.64,
+            "text": " Shank may be straight shank, it may be tapered."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1213.64,
+            "end": 1215.64,
+            "text": " In this case, it is tapered."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1215.64,
+            "end": 1218.64,
+            "text": " And end of the shank, it is flattened."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1218.64,
+            "end": 1220.64,
+            "text": " This is called tang."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1220.64,
+            "end": 1223.64,
+            "text": " Tang is inserted in the slat, so that there is a positive diag."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1223.64,
+            "end": 1229.64,
+            "text": " So that there is no slip between the spindle and the shank."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1229.64,
+            "end": 1234.64,
+            "text": " And shank is that part of the drill, which is held to be rotated."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1234.8400000000001,
+            "end": 1237.8400000000001,
+            "text": " So you hold the drill by using the shank."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1242.8400000000001,
+            "end": 1243.8400000000001,
+            "text": " And then you have the neck."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1243.8400000000001,
+            "end": 1245.8400000000001,
+            "text": " This is the relief portion, it is called the neck."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1245.8400000000001,
+            "end": 1247.8400000000001,
+            "text": " Between the body and the shank, it is called the neck."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1247.8400000000001,
+            "end": 1249.8400000000001,
+            "text": " And the fluids."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1249.8400000000001,
+            "end": 1257.8400000000001,
+            "text": " Fluids are the groups which runs helically and intersects at the point to form the cutting lips."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1257.8400000000001,
+            "end": 1259.8400000000001,
+            "text": " So this is called the fluids."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1260.04,
+            "end": 1266.04,
+            "text": " The fluids apart from forming the cutting lips or cutting edges, it has two functions."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1266.04,
+            "end": 1269.04,
+            "text": " It allows the cutting fluid to reach the point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1269.04,
+            "end": 1273.04,
+            "text": " And it allows the chips to move up to the surface of the workpiece."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1273.04,
+            "end": 1276.04,
+            "text": " So these are the functions of fluids."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1276.04,
+            "end": 1281.04,
+            "text": " Face. Face is the surface where the chip actually impinges."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1281.04,
+            "end": 1283.04,
+            "text": " And then followed by flank."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1283.04,
+            "end": 1284.04,
+            "text": " Flank is on the other side."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1284.04,
+            "end": 1286.04,
+            "text": " This is one of the flank that is visible to us."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1286.04,
+            "end": 1287.04,
+            "text": " So this is the flank."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1287.24,
+            "end": 1289.24,
+            "text": " Other side of the cutting edge is the flank."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1291.24,
+            "end": 1292.24,
+            "text": " Then we have the land."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1292.24,
+            "end": 1295.24,
+            "text": " Land is the cylindrical ground surface on the leading edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1295.24,
+            "end": 1298.24,
+            "text": " And where the diameter is maintained."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1298.24,
+            "end": 1301.24,
+            "text": " So the body is normally relieved."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1301.24,
+            "end": 1305.24,
+            "text": " So that the contact as the drill is going down,"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1305.24,
+            "end": 1308.24,
+            "text": " the contact between the tool and the workpiece is minimum."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1308.24,
+            "end": 1311.24,
+            "text": " So at that particular edge, the contact should be there."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1311.24,
+            "end": 1315.24,
+            "text": " So that the tool is perfectly aligned to the drilling hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1315.44,
+            "end": 1318.44,
+            "text": " So that part is called the land."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1318.44,
+            "end": 1322.44,
+            "text": " Wave. Wave is the central portion of the drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1322.44,
+            "end": 1327.44,
+            "text": " If it is high helix, the wave will be of low thickness, less diameter."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1327.44,
+            "end": 1332.44,
+            "text": " And if it is of less helix, it will be of larger diameter."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1332.44,
+            "end": 1335.44,
+            "text": " Wave determines the strength of the drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1335.44,
+            "end": 1337.44,
+            "text": " And the edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1337.44,
+            "end": 1342.44,
+            "text": " Chisel edge formed by the intersection of the flank is called the chisel edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1342.64,
+            "end": 1345.64,
+            "text": " You can see this is the flank surface."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1345.64,
+            "end": 1348.64,
+            "text": " This is the flank surface intersect at this edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1348.64,
+            "end": 1349.64,
+            "text": " This is called the chisel edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1351.64,
+            "end": 1354.64,
+            "text": " So the cutting edge edges are called the lips."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1354.64,
+            "end": 1356.64,
+            "text": " The lips are at an angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1358.64,
+            "end": 1359.64,
+            "text": " 118 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1359.64,
+            "end": 1361.64,
+            "text": " Normally around 118 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1361.64,
+            "end": 1364.64,
+            "text": " Normally around 118 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1364.64,
+            "end": 1365.64,
+            "text": " This is length."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1365.64,
+            "end": 1366.64,
+            "text": " Length is this thing."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1366.64,
+            "end": 1368.64,
+            "text": " The entire length is called the length."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1368.64,
+            "end": 1370.64,
+            "text": " Helix. Ok. Helix angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1370.8400000000001,
+            "end": 1372.8400000000001,
+            "text": " The angle by the leading edge of the..."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1372.8400000000001,
+            "end": 1374.8400000000001,
+            "text": " This is the land."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1374.8400000000001,
+            "end": 1379.8400000000001,
+            "text": " The leading edge of the land makes with the axis of the drill is called the rake angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1379.8400000000001,
+            "end": 1383.8400000000001,
+            "text": " Is called the rake angle or is called the helix angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1383.8400000000001,
+            "end": 1388.8400000000001,
+            "text": " And the point angle, as I have said, this angle is called the point angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1388.8400000000001,
+            "end": 1391.8400000000001,
+            "text": " Angle between the two lips is called the point angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1391.8400000000001,
+            "end": 1394.8400000000001,
+            "text": " It is normally around 118 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1394.8400000000001,
+            "end": 1397.8400000000001,
+            "text": " And the lip clearance angle, it is measured at the periphery."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1397.8400000000001,
+            "end": 1399.8400000000001,
+            "text": " It is measured at the periphery here."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1400.04,
+            "end": 1401.04,
+            "text": " It is measured at the periphery."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1401.04,
+            "end": 1409.04,
+            "text": " It is the angle made by the flank and right angle to the drill axis is called the lip clearance angle."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1409.04,
+            "end": 1410.04,
+            "text": " It is around 12 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1410.04,
+            "end": 1414.04,
+            "text": " And chisel edge angle is the angle between the lip and the chisel edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1414.04,
+            "end": 1416.04,
+            "text": " Angle between the lip and the chisel edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1416.04,
+            "end": 1418.04,
+            "text": " This is the lip and the chisel edge."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1418.04,
+            "end": 1421.04,
+            "text": " This angle is around 130 degrees."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1421.04,
+            "end": 1426.04,
+            "text": " It is around another 20 to 135 degrees normally."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1426.24,
+            "end": 1432.24,
+            "text": " So these are the basic nomenclature of a twist drill."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1434.24,
+            "end": 1437.24,
+            "text": " And drilling operations, already we have discussed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1437.24,
+            "end": 1441.24,
+            "text": " All the drilling operations and related operations to drilling are"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1441.24,
+            "end": 1442.24,
+            "text": " Rimming."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1442.24,
+            "end": 1450.24,
+            "text": " Rimming is an operation basically to finish and size a hole which is already drilled."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1450.24,
+            "end": 1453.24,
+            "text": " Finish and size a hole which is already drilled."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1453.44,
+            "end": 1457.44,
+            "text": " Boring, whereas sometimes the hole drilled may not be concentrated."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1457.44,
+            "end": 1460.44,
+            "text": " To make the hole concentrated, we use boring operation."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1460.44,
+            "end": 1466.44,
+            "text": " And that counter boring operation is to enlarge cylindrically one end of the work piece."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1466.44,
+            "end": 1472.44,
+            "text": " So that it provides a shoulder."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1472.44,
+            "end": 1476.44,
+            "text": " And here it provides space for the head of the bolt."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1476.44,
+            "end": 1480.44,
+            "text": " Accommodate the head of the bolts and studs."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1480.64,
+            "end": 1485.64,
+            "text": " So these are countersunk drills."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1485.64,
+            "end": 1489.64,
+            "text": " Counter sinking drills of different sizes."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1489.64,
+            "end": 1491.64,
+            "text": " What is counter sinking?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1491.64,
+            "end": 1495.64,
+            "text": " Counter sinking is basically conically enlarging one end of the work piece."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1495.64,
+            "end": 1496.64,
+            "text": " Why?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1496.64,
+            "end": 1501.64,
+            "text": " To accommodate the seat of flat head screws."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1501.64,
+            "end": 1509.64,
+            "text": " And spot facing machining the surface around the hole for proper seating of the washers etc."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1509.8400000000001,
+            "end": 1515.8400000000001,
+            "text": " Tapping is basically making internal threads in a hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1515.8400000000001,
+            "end": 1520.8400000000001,
+            "text": " And lapping is basically an operation of finishing an already made hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1520.8400000000001,
+            "end": 1525.8400000000001,
+            "text": " Using a tool called lap which includes fine abrasive particles."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1525.8400000000001,
+            "end": 1529.8400000000001,
+            "text": " So these are the related drilling operations."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1529.8400000000001,
+            "end": 1533.8400000000001,
+            "text": " These are some of the drilling operations."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1534.04,
+            "end": 1540.04,
+            "text": " Now we move on to the operating condition i.e. drilling speed, feed and drilling speed and feed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1540.04,
+            "end": 1543.04,
+            "text": " There is no concept of depth of cut in drilling."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1543.04,
+            "end": 1545.04,
+            "text": " We only deal with speed and feed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1545.04,
+            "end": 1552.04,
+            "text": " So drilling speed is the peripheral speed with which the drill tool is rotating."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1552.04,
+            "end": 1556.04,
+            "text": " That means peripheral speed V will be equal to pi Dn by 1000."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1556.04,
+            "end": 1560.04,
+            "text": " Where D is diameter of the drill in mm."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1560.04,
+            "end": 1563.04,
+            "text": " And N is the rpm with which the drill is rotating."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1563.24,
+            "end": 1565.24,
+            "text": " So what is the drill speed?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1565.24,
+            "end": 1571.24,
+            "text": " It is the distance advanced by the tool in one rotation or one revolution of the tool."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1571.24,
+            "end": 1578.24,
+            "text": " It is the distance advanced by the tool per unit revolution of the tool."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1578.24,
+            "end": 1588.24,
+            "text": " And the feed rate will be the feed into the rpm will give you the feed rate in meter per minute."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1588.24,
+            "end": 1591.24,
+            "text": " That is the feed velocity in the vertical direction."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1591.44,
+            "end": 1595.44,
+            "text": " So machining time will be L by N into Fr."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1595.44,
+            "end": 1597.44,
+            "text": " Now what is this L?"
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1597.44,
+            "end": 1599.44,
+            "text": " L is normally if you make a through hole."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1599.44,
+            "end": 1602.44,
+            "text": " If you are making a through hole, if it is a blind hole this L4 can be neglected."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1602.44,
+            "end": 1606.44,
+            "text": " Otherwise if you are making a through hole, say this point has to pass."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1606.44,
+            "end": 1609.44,
+            "text": " Say this has to pass here, then only the hole will be completed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1609.44,
+            "end": 1611.44,
+            "text": " The point has to come out completely."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1611.44,
+            "end": 1613.44,
+            "text": " So we have an approach length."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1613.44,
+            "end": 1616.44,
+            "text": " This is the length of the drill point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1616.44,
+            "end": 1618.44,
+            "text": " L3 is the length of the drill point."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1618.44,
+            "end": 1620.44,
+            "text": " And L2 is the approach length."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1620.64,
+            "end": 1623.64,
+            "text": " And L1 is actually the length of the work piece."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1623.64,
+            "end": 1627.64,
+            "text": " And L4 is the over travel, slightly over travel."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1627.64,
+            "end": 1632.64,
+            "text": " So L3 we can find it out as 0.3 of the diameter."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1632.64,
+            "end": 1635.64,
+            "text": " And this we can safely assume L2 and L4."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1635.64,
+            "end": 1637.64,
+            "text": " L1 will be given to us."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1637.64,
+            "end": 1640.64,
+            "text": " We have to assume something, let's say 5mm each."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1640.64,
+            "end": 1645.64,
+            "text": " And on each side this can be assumed."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1645.8400000000001,
+            "end": 1648.8400000000001,
+            "text": " And MMR will be the cross sectional area."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1648.8400000000001,
+            "end": 1653.8400000000001,
+            "text": " Pi by 4 D square into the feed into the RPM."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1653.8400000000001,
+            "end": 1655.8400000000001,
+            "text": " This will be MRR."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1655.8400000000001,
+            "end": 1659.8400000000001,
+            "text": " I hope the discussions on drilling is clear to you."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1659.8400000000001,
+            "end": 1662.8400000000001,
+            "text": " If you have any doubts, feel free to contact me."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1662.8400000000001,
+            "end": 1665.8400000000001,
+            "text": " And I will try to get the doubts cleared."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1665.8400000000001,
+            "end": 1668.8400000000001,
+            "text": " I hope you have liked the video lecture."
+        },
+        {
+            "number": "12",
+            "title": "Manufacturing Proces",
+            "start": 1668.8400000000001,
+            "end": 1669.8400000000001,
+            "text": " Thank you."
+        }
+    ],
+    "text": " Welcome to Manufacturing Processes, Machining and Machine Tools lectures by Professor Joy G Tagosh. This is the twelfth lecture of a series of lectures. This lecture will be on Drilling, Drilling Machine and related aspects. He will be discussing about Drilling, Types of Drilling Machine, Drilling Machine Components, Size or Specification of a Drilling Machine, Operational Setup of Drilling, Drill Jigs, Tool Holding Devices, Types of Drills, Twist Drill Geometry and Nomenclature, Drilling Operations, Drilling Cutting Speed and Feed and MRR in Drilling. So, do not miss and watch the full video. For the next video in the lecture series, please click the suggested video link above. You may also click on the playlist at end of the video to access my videos. Please subscribe this channel and yes, do not forget to like and share. Also click on the bell icon to receive instant information of new videos uploaded. Thank you. Hello friends, welcome to this lecture. In this lecture we will be discussing about Drilling, Drilling Machine Tool and about Twist Drill and related aspects. So, let's start. So, what is drilling? Drilling is basically an operation of generating or originating a cylindrical hole. Very important, it should be a cylindrical hole. A cylindrical hole may be a through hole or it may be a blind hole. It may be of different diameters or it may be drilling may be an operation of already enlarging an already existing hole, cylindrical hole by means of a rotating cutting tool. Cutting tool may be of different diameters in a solid body. And the tool that we use in drilling is called drill tool. Sometimes it is referred to as drill bit. Similar to drilling or operations that can be performed on a drilling machine apart from drilling are boring, reaming, counter boarding, counter sinking, tapping. These are the operations which also are performed on the same drilling machine and are related to drilling operations. So, these operations also we will be discussing. Now, what are the factors or parameters that are very important in order to drill a quality hole? Firstly, the cutting speed is very important, the feed, the diameter of the drill, the application of cutting fluids and its type, ratio of length of diameter of the hole, type of the drill tool and material properties of the workpiece, the tool material, rigidity of the work holding devices and the uses of jigs. These are the factors which are very important. You have to consider these factors in order to drill an accurately accurate hole. And mind you, drilling is one of the most important and essential operations that is performed in a metal working shop. And it is very difficult to drill a hole of exact size at exact location. It is extremely, extremely difficult to drill an exact hole at exact location. So, this requires skill or certain other means which we will be discussing during the lecture so that it is possible to drill such quality holes. Even then, it doesn't matter how accurate you are, you cannot drill a perfect circular hole in a perfect location. It is impossible. So, what are the different types of drilling machines? The most common type and the simplest of them are called sensitive drill press. Sensitive drill press is basically a machine where the spindle and the drill head are balanced, counterbalanced. Drilling head are counterbalanced so that the amount of load you are applying can be felt by the hand. So, the hand is, this feed is provided manually and the amount of load the operator applies on the workpiece can be felt on the palm of the operator. So, that's why it's called sensitive drill press. Slight variation to sensitive drill press is upright drill press or simple drill press. So, here it is intended for larger size workpieces whereas sensitive drill press was intended for a very smaller size workpieces and small holes basically. So, here you can drill up to around 50 mm hole diameter can be drilled by this process and it can be bench mounted or foam mounted. Normally it is floor mounted and the table can be moved up and down on the column and automatic feed can be given and feed stops are also provided to control the amount of feed given during a particular drilling operations. So, all this can be done in an upright drilling machine. So, this is a schematic diagram of an upright drilling machine. You can see the table. Table can move up and down and this is the drill bit. So, and there are stops that you can set the stops that means the drill will move up. Reset distance only. So, this is possible in an upright drilling machine. Then we have the radial drilling machine. It is a large drilling machine and it's a production machines. It is mainly used for drilling holes in large castings, weldments, forging etc. It has a radial arm which is around 3 to 12 feet long and on this radial arm there is a drill head which can move radially in and radially out. The arm can rotate about 180 degrees. So, it can cover a wide area and large number of holes can be drilled by positioning the workpiece on the table. So, this is radial drilling machine. Some images I have of radial drilling machine. You can see this is the arm. This arm can rotate about this column and this drilling head can move in and out. So, here this is the radial drilling machine. See here, this is the radial arm which can move in and out. Then we have the multiple spindle drilling machine. In multiple spindle drilling machine, there is a single motor which supplies the power to all the spindles. So, there are multiple spindles are there that's why it is called multiple spindle and the RPM of all the spindles will be same. So, this is called multiple spindle drilling machine and we have gang drilling machine. In gang drilling machine, we have several spindles and the power from each of the spindles are provided separately. That means each of the spindle can run at a different RPM. Now, here in this type of machine, actually drilling is followed by several other operations like reaming, boring or tapping or something like that or counter boring or counter sinking. So, what normally it is done in industry is that in one station drilling is done and followed by the next operation, the next operation, next operation and the work leaves. So, works enters here in a fixture and moves forward and then leaves. So, for such applications, we use gang drilling machine. Okay, these are some of the drilling machines that we have discussed. Now, we will be discussing the drill components, major components of a sensitive drill press. As you can see in front of you, there is a bed which is normally made of cast iron. On the rear side of the bed, you have a circular column. The circular column is a drilling machine so that the table can move up and down. On top of the column, we have the drill head. This is called the drill head. The drill head consists of the mechanism that is required to drive the spindle or rotate the spindle and the mechanism that is required to feed the spindle. That means the spindle will rotate as well as it will be, it will move down, up and down. It will move up and down. So, it is rotating and moving up and down. So, it is a mechanism that is used. It is called quill assembly mechanism. So, we will be discussing this quill assembly mechanism. It is a very interesting mechanism. See, the thing is rotating as well as it is moving up and down. So, what type of mechanism is capable of providing such motions? We will see that. So, the drive mechanism is pretty simple here. The motor supplies the power to the spindle directly using belt pulley arrangement. You can change the combination of the diameter of the belt, diameter of the pulleys and you can change the RPM of the spindle. This is the quill arrangement. This is the quill arrangement. The video is not working. So, here, the power from this motor is supplied to the cone pulley here and the motor is supplied to the cone pulley here and this is the spindle. Spindle carries the drill chuck. So, this is rotating. Now, this chuck, this spindle is mounted on two bearings. This is one bearing here and this is another bearing here apart from the two bearings here. So, there are two bearings here and there is a hollow tube. This spindle runs through this hollow tube on a bearing. So, it is rotating. The spindle is rotating but this hollow tube is not rotating because it is inside it is the spindle is held in a bearing and outside contains outside of the hollow tube contains a rack. Now, this rack matches with a pinion gear and this pinion gear is directly mounted to the hand wheel. So, this is this weight of coming down is counterbalanced by this hand wheel. So, you can feel the weight in your hand. So, as you are rotating this hand wheel, this will rotate and as this rotates depending on the direction of rotation, the rack will cause the tube or hollow tube to move up and down which contains the spindle. The spindle also will move up and down along with the hollow tube. So, it is rotating inside and as well as it is moving up and down. So, this is the quill assembly. This is how actually taking place. This is the pinion which rotates the hollow tube inside there is a bearing on which the spindles is mounted and as you rotate this, this will rotate and it will cause it to move up and down depending on the direction of rotation of the hand wheel. Okay, how do you specify the drilling machine? You specify the drilling machine by twice the distance between the center of this spindle and the inner face of the column. The maximum length of quill travel, the size of the taper of the spindle, the power of the motor and the number of spindle speed and feed. So, these are the basic parameters which you must define to define a drilling machine. Okay, how do you hold a workpiece on the table? You can use vices. Already I have discussed in shaping machine also. You can use vices. There are various types. Plane wise, swivel base wise, universal wise, angle plates, drill jigs, clamps. I will discuss clamps and bolts are also used. So, I will discuss drill bit in slight details. Drill bits might not be known to you. So, I will be discussing drill bits. Okay, the drill bits are how do you go about drilling a hole? For make a hole, I said it is extremely difficult job to correctly drill a hole at correct position. What the operator normal procedure is that manually if you are drilling a hole, you will mark it by the chalk, wet chalk and then allow it to dry. Then locate the center of the hole and mark it. Then take it to the table, clamp it, then bring the position of the drill at the or you will use the center drill to make a small hole at the center. Then you will feed the drill tool and bring it to relative position at the center of the marking and then drill the hole. So, this is a very very cumbersome process. Imagine if you have to make four holes in a work piece and that thousand number of work piece you have to drill in a day, then the fatigue, amount of fatigue and the amount of error that may happen, amount of rejection that may take place will be huge. So, in industry you cannot allow such type of things to happen. Therefore, we use jigs. If a hole is required to be drilled on a large number in the same type of component, we use drill jigs. A drill jig performs several functions like it holds the work piece, it locates the work piece and guides the tool in correct position. It guides the tool in correct position. So, how does this function? I will show you with a proper diagram here. This is a model which I have made in PROE. This diagram I have taken from my book Tool Design where I have designed this drill jig. So, here this is the work piece. In this work piece, see this hole has to be drilled and in large number this has to be drilled. So, therefore it is economical to design and fabricate a drill jig to hold this work piece. So, here there is a slot in which this work piece will fit and this clamp can be rotated and clamped here. See, places you can clamp this and you can tighten it. And then we reverse this plate. Once you reverse this plate, you will see there is number of bushes here. So, it will reverse and it will rest on the table and what the operator has to do is that he has to do nothing but to guide the tool through the bushes. These are the brass bushes and the operator only has to pass through this and you can drill the hole in right position. Just imagine if manually operator has to locate these holes and drill these holes manually. It will be very cumbersome process. So, that is the use of drill jig. So, another drill jig here. This is the flange type component where four holes to be constructed on a particular pitch cycle diameter. So, here, so what is, there is a spindle here, central spindle in which the work is fitted and clamped with a C washer and a knob here. C washer and the knob, this is the work piece and this is the stud in which it is fixed and on top there are four bushes. So, this is a table jig. This particular jig is called a table jig. It will be placed. It has four legs. So, it will be placed on the table and the operator has to do is that guide the tool through these holes. How do you hold the tool? You can hold chucks. So, there are various types of chucks. Keyed chucks, keyless chucks. Chucks are mainly used for holding drills which are straight shanks. A part shank drills or larger diameter drills are not held in chucks. So, these are chucks. Keyless chuck, this is a keyless chuck and this is a keyed chuck. Chucks, I repeat, are used for straight shank drills or smaller diameter drills which have straight shanks. Okay, for larger diameter drills, we have taper shank and the taper fits to the slip which is of the machine. The machine has a particular taper size. So, if your drill shank matches that size, fine. So, otherwise you have to use sockets. If the size is smaller, you will use slips. You insert the slips in the tapered slip of the machine and then you insert the drill like that. So, this is a slip. You put it in the machine slip and then the tool is inserted. Or you use a socket like this. The socket is inserted in the machine slip and then you insert the drill in the socket. So, this is a directly machined. In the machined spindle, if the size matches, then you can directly fit it. And you can see this is a flat end. There is a flat end in the slot. This flat end, this is called tang. Tang has to fit the slot. This is a tapered slip. And this is removed by a drift. If a machine comes with a drift, you insert the drift like this. Insert the drift like this and apply force here so that it comes down. To remove the drill, you use the drift. So, what are the different types of drill? The most common type of drill is called the twist drill. Twist drill has two fluids running helically on the body of the drill. These two fluids intersect at the point and makes two cutting edges. And the smaller diameter twist drills are called jawbuzz drills. The twist drill can be low helix or high helix or standard twist drills. Normally, around 20 degree is low helix, around 30 degree is standard and 40 degree is high helix. So, obviously if it is high helix, the cutting efficiency will be high. But the strength of the drill will decrease. Whereas, for low helix, the strength will be high. And for high helix, what happens in certain ductile material, highly ductile material, if you are having a high helix, it tries to grab the material and move ahead. So, that creates sometimes a problem. Then we have straight fluid drills. The straight fluid drills are extreme case of low helix. These are required in highly ductile material like brass. So, in those type of material, these type of drills are suitable. Then we have three fluted drills or four fluted drills. So, these have multiple flutes, more than two numbers running helically on the body. Again, as the number of flutes increases, the cutting efficiency also increases, productivity increases. Okay, so this is used for high productivity. And we have stab drills. Stab drills means the drill has different diameter at different part of the body. So, for making stab holes, you require stab drills. And this is a very interesting drill is there. It is called oil hole drill. Now, oil hole drill is a hollow drill. And there is a hole running helically along with the fluids and the holes are surfacing at the point. Now, this is very important. This is important for making a deep hole. Now, when you are drilling deep hole, because of the jamming of the chips, the oil does not or the cutting fluid does not reach the point. Now, here for oil hole drills, if you pass the cutting fluid through the body, through the center of this, it will reach the point. This is called oil hole drills. So, this is center drill to make center hole punch. And then we start drilling. Okay, so we will discuss the elements of a drill. Main important points of a drill. First is the axis. Axis is the line passing through the center of the drill. Or you can say it is passing through the wave of the drill. It runs through the wave and is perpendicular to the diameter. It is the center line of the tool. Body is, this part is called the body. It extends from the side to the point. And it contains the fluids. That is called the body. And this part is called the shank. Shank may be straight shank, it may be tapered. In this case, it is tapered. And end of the shank, it is flattened. This is called tang. Tang is inserted in the slat, so that there is a positive diag. So that there is no slip between the spindle and the shank. And shank is that part of the drill, which is held to be rotated. So you hold the drill by using the shank. And then you have the neck. This is the relief portion, it is called the neck. Between the body and the shank, it is called the neck. And the fluids. Fluids are the groups which runs helically and intersects at the point to form the cutting lips. So this is called the fluids. The fluids apart from forming the cutting lips or cutting edges, it has two functions. It allows the cutting fluid to reach the point. And it allows the chips to move up to the surface of the workpiece. So these are the functions of fluids. Face. Face is the surface where the chip actually impinges. And then followed by flank. Flank is on the other side. This is one of the flank that is visible to us. So this is the flank. Other side of the cutting edge is the flank. Then we have the land. Land is the cylindrical ground surface on the leading edge. And where the diameter is maintained. So the body is normally relieved. So that the contact as the drill is going down, the contact between the tool and the workpiece is minimum. So at that particular edge, the contact should be there. So that the tool is perfectly aligned to the drilling hole. So that part is called the land. Wave. Wave is the central portion of the drill. If it is high helix, the wave will be of low thickness, less diameter. And if it is of less helix, it will be of larger diameter. Wave determines the strength of the drill. And the edge. Chisel edge formed by the intersection of the flank is called the chisel edge. You can see this is the flank surface. This is the flank surface intersect at this edge. This is called the chisel edge. So the cutting edge edges are called the lips. The lips are at an angle. 118 degrees. Normally around 118 degrees. Normally around 118 degrees. This is length. Length is this thing. The entire length is called the length. Helix. Ok. Helix angle. The angle by the leading edge of the... This is the land. The leading edge of the land makes with the axis of the drill is called the rake angle. Is called the rake angle or is called the helix angle. And the point angle, as I have said, this angle is called the point angle. Angle between the two lips is called the point angle. It is normally around 118 degrees. And the lip clearance angle, it is measured at the periphery. It is measured at the periphery here. It is measured at the periphery. It is the angle made by the flank and right angle to the drill axis is called the lip clearance angle. It is around 12 degrees. And chisel edge angle is the angle between the lip and the chisel edge. Angle between the lip and the chisel edge. This is the lip and the chisel edge. This angle is around 130 degrees. It is around another 20 to 135 degrees normally. So these are the basic nomenclature of a twist drill. And drilling operations, already we have discussed. All the drilling operations and related operations to drilling are Rimming. Rimming is an operation basically to finish and size a hole which is already drilled. Finish and size a hole which is already drilled. Boring, whereas sometimes the hole drilled may not be concentrated. To make the hole concentrated, we use boring operation. And that counter boring operation is to enlarge cylindrically one end of the work piece. So that it provides a shoulder. And here it provides space for the head of the bolt. Accommodate the head of the bolts and studs. So these are countersunk drills. Counter sinking drills of different sizes. What is counter sinking? Counter sinking is basically conically enlarging one end of the work piece. Why? To accommodate the seat of flat head screws. And spot facing machining the surface around the hole for proper seating of the washers etc. Tapping is basically making internal threads in a hole. And lapping is basically an operation of finishing an already made hole. Using a tool called lap which includes fine abrasive particles. So these are the related drilling operations. These are some of the drilling operations. Now we move on to the operating condition i.e. drilling speed, feed and drilling speed and feed. There is no concept of depth of cut in drilling. We only deal with speed and feed. So drilling speed is the peripheral speed with which the drill tool is rotating. That means peripheral speed V will be equal to pi Dn by 1000. Where D is diameter of the drill in mm. And N is the rpm with which the drill is rotating. So what is the drill speed? It is the distance advanced by the tool in one rotation or one revolution of the tool. It is the distance advanced by the tool per unit revolution of the tool. And the feed rate will be the feed into the rpm will give you the feed rate in meter per minute. That is the feed velocity in the vertical direction. So machining time will be L by N into Fr. Now what is this L? L is normally if you make a through hole. If you are making a through hole, if it is a blind hole this L4 can be neglected. Otherwise if you are making a through hole, say this point has to pass. Say this has to pass here, then only the hole will be completed. The point has to come out completely. So we have an approach length. This is the length of the drill point. L3 is the length of the drill point. And L2 is the approach length. And L1 is actually the length of the work piece. And L4 is the over travel, slightly over travel. So L3 we can find it out as 0.3 of the diameter. And this we can safely assume L2 and L4. L1 will be given to us. We have to assume something, let's say 5mm each. And on each side this can be assumed. And MMR will be the cross sectional area. Pi by 4 D square into the feed into the RPM. This will be MRR. I hope the discussions on drilling is clear to you. If you have any doubts, feel free to contact me. And I will try to get the doubts cleared. I hope you have liked the video lecture. Thank you."
+}

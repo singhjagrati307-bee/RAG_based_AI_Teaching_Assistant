@@ -1,0 +1,2231 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 0.0,
+            "end": 6.24,
+            "text": " Welcome to Manufacturing Processes, Machining and Machine Tools lectures by Professor Joy"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 6.24,
+            "end": 7.96,
+            "text": " G Tagosh."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 7.96,
+            "end": 11.44,
+            "text": " This is the eleventh lecture of a series of lectures."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 11.44,
+            "end": 15.200000000000001,
+            "text": " This lecture will be on Slaughter and Planar Machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 15.200000000000001,
+            "end": 20.92,
+            "text": " He will be discussing functioning of a slaughter machine, comparison of shaper and slaughter,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 20.92,
+            "end": 27.12,
+            "text": " specification of slaughter machine, operations that can be performed on a slaughter machine,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 27.12,
+            "end": 32.96,
+            "text": " functioning of a planar machine, types of planar machines, components of a planar machine,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 32.96,
+            "end": 39.72,
+            "text": " planar size, work holding, planar drive mechanism, planar feed mechanism, comparison of shapers"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 39.72,
+            "end": 42.160000000000004,
+            "text": " and planars and planar operations."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 42.160000000000004,
+            "end": 46.120000000000005,
+            "text": " So, do not miss and watch the full video."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 46.120000000000005,
+            "end": 51.760000000000005,
+            "text": " For the next video in the lecture series, please click the suggested video link above."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 51.760000000000005,
+            "end": 56.96,
+            "text": " You may also click on the playlist at end of the video to access my videos."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 56.96,
+            "end": 61.96,
+            "text": " Please subscribe this channel and yes, do not forget to like and share."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 61.96,
+            "end": 67.28,
+            "text": " Also click on the bell icon to receive instant information of new videos uploaded."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 67.28,
+            "end": 68.68,
+            "text": " Thank you."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 68.68,
+            "end": 79.52,
+            "text": " Hello friends, welcome to this lecture."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 79.52,
+            "end": 84.52000000000001,
+            "text": " In this lecture, we will be discussing the slaughter machine and the planar machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 84.52000000000001,
+            "end": 86.2,
+            "text": " So let us start."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 86.44,
+            "end": 90.2,
+            "text": " A slaughter machine just like a shaper machine works just like a shaper machine and does"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 90.2,
+            "end": 94.2,
+            "text": " job similar which is done on a shaper machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 94.2,
+            "end": 97.68,
+            "text": " And therefore it is also referred to as a vertical shaper."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 97.68,
+            "end": 101.16,
+            "text": " Slaughter machine was invented much before shaper machine was invented."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 101.16,
+            "end": 108.92,
+            "text": " It was invented by a person called Brunel in the year 1800."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 108.92,
+            "end": 113.64,
+            "text": " So the major differences between a shaper and a slaughter is that in a slaughter machine,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 113.64,
+            "end": 118.48,
+            "text": " we have a rotary table and because we have a rotary table, the rotary field can be given."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 118.48,
+            "end": 123.4,
+            "text": " So a circular surface can be machined compared to that of a shaper machine which is not possible"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 123.4,
+            "end": 125.28,
+            "text": " in a shaper machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 125.28,
+            "end": 130.28,
+            "text": " And the ram here travels in a vertical plane."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 130.28,
+            "end": 132.18,
+            "text": " So the ram moves up and down."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 132.18,
+            "end": 137.24,
+            "text": " So downward stroke is the cutting stroke and upward stroke is the return stroke."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 137.24,
+            "end": 143.12,
+            "text": " And like shaper, the upward stroke has to return fast to reduce the non-productive time"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 143.6,
+            "end": 146.52,
+            "text": " And therefore here also we use a quick return mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 146.52,
+            "end": 155.48000000000002,
+            "text": " It can be a quick return mechanism or it can be a crank and slaughter link mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 155.48000000000002,
+            "end": 159.32,
+            "text": " So I will show you the picture in the next slide."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 159.32,
+            "end": 167.52,
+            "text": " And shaper machine unlike slaughter machine can cut internal surfaces also provided the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 167.52,
+            "end": 176.04000000000002,
+            "text": " tool and the hole is enough to accommodate the tool to enter the workpiece."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 176.04000000000002,
+            "end": 180.96,
+            "text": " It is used for cutting flat surfaces, particles, inclined etc. etc."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 180.96,
+            "end": 186.68,
+            "text": " It is also used for cutting cubase and making slots, both internal and external surfaces."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 186.68,
+            "end": 194.52,
+            "text": " So these are some of the differences between shaper and slaughter."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 194.52,
+            "end": 195.52,
+            "text": " This is a slaughter machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 195.52,
+            "end": 199.04000000000002,
+            "text": " As you can see this is a circular table and we can give a circular feed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 199.04000000000002,
+            "end": 204.4,
+            "text": " This is the ram which reciprocates and it also uses during the downward stroke it cuts"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 204.4,
+            "end": 206.92000000000002,
+            "text": " and during upward stroke it does not cut."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 206.92000000000002,
+            "end": 212.24,
+            "text": " Now since the weight is coming down there is a counterbalance added to the slaughter"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 212.24,
+            "end": 214.16000000000003,
+            "text": " machine which is not there in a shaper machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 214.16000000000003,
+            "end": 218.04000000000002,
+            "text": " I will show you a picture of a slaughter which has this is the counterweight."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 218.04000000000002,
+            "end": 223.76000000000002,
+            "text": " So this ram comes down along with the tool and this is a circular table here."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 224.0,
+            "end": 231.2,
+            "text": " So some of the differences between shaper and slaughter are that shaper is horizontal,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 231.2,
+            "end": 236.44,
+            "text": " slaughter is ram travels vertical in a slaughter."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 236.44,
+            "end": 241.88,
+            "text": " Shaper has a rectangular type of table whereas there is circular table in case of a slaughter"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 241.88,
+            "end": 246.35999999999999,
+            "text": " and because there is circular table circular feed can be given and circular surfaces can"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 246.35999999999999,
+            "end": 247.35999999999999,
+            "text": " be machined."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 247.35999999999999,
+            "end": 253.23999999999998,
+            "text": " And because of the nature of the working of the ram here moving up down so here internal"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 253.72,
+            "end": 257.40000000000003,
+            "text": " surfaces can be machined which is not possible in a shaper machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 257.40000000000003,
+            "end": 264.6,
+            "text": " In a slaughter machine there is counterweight to balance the weight moving down of the ram."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 264.6,
+            "end": 270.68,
+            "text": " So these are difference between a shaper and a slaughter."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 270.68,
+            "end": 274.40000000000003,
+            "text": " This is the quick return mechanism you can see this is the connecting rod sorry this"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 274.40000000000003,
+            "end": 280.84000000000003,
+            "text": " is slotted link and this is the crank pin this is the block fitted in the slot of the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 280.84,
+            "end": 281.84,
+            "text": " machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 281.84,
+            "end": 285.15999999999997,
+            "text": " This is the lock around and this is the radius slide this is the pull gear this is the pinion"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 285.15999999999997,
+            "end": 286.15999999999997,
+            "text": " gear."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 286.15999999999997,
+            "end": 291.4,
+            "text": " The size of a slaughter is specified with the maximum length of stroke, the height between"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 291.4,
+            "end": 296.35999999999996,
+            "text": " the table and the tool head, the maximum longitudinal feed, the maximum transverse feed, the diameter"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 296.35999999999996,
+            "end": 300.52,
+            "text": " of the table these are the things that is normally specified a slaughter machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 300.52,
+            "end": 304.12,
+            "text": " What are the operations that can be performed in a slaughter machine is that it can machine"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 304.12,
+            "end": 311.08,
+            "text": " flat surfaces external, internal, vertical etc. and it can machine circular surfaces"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 311.08,
+            "end": 312.88,
+            "text": " also using rotary table."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 312.88,
+            "end": 315.68,
+            "text": " It can machine slots, skewage groups."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 315.68,
+            "end": 319.52,
+            "text": " These are the some of the operations that can be performed on a slaughter machines."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 319.52,
+            "end": 322.44,
+            "text": " With this we move on to the planer machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 322.44,
+            "end": 330.6,
+            "text": " Planer also is used to make surfaces flat so it generates flat surfaces or machines"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 330.6,
+            "end": 338.0,
+            "text": " flat surfaces both vertical and horizontal it may be inclined also but there are some"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 338.0,
+            "end": 342.04,
+            "text": " differences between the working of a sepa machine and a planer machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 342.04,
+            "end": 348.32000000000005,
+            "text": " Planer machine is a production type machine intended for accurate machining of surfaces"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 348.32000000000005,
+            "end": 350.78000000000003,
+            "text": " on large surface."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 350.78000000000003,
+            "end": 357.56,
+            "text": " So some of the typical application of sepa machine may be machining of machine bed columns,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 357.56,
+            "end": 364.48,
+            "text": " diesel engine blocks, bending plates etc."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 364.48,
+            "end": 367.72,
+            "text": " So this typical diagram shows a double housing planer."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 367.72,
+            "end": 371.08,
+            "text": " We will see what is a double housing planer."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 371.08,
+            "end": 374.32,
+            "text": " This is double housing planer installed in our shop."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 374.32,
+            "end": 380.32,
+            "text": " This is the table which is located on this bed and this is the cross rail, this is the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 380.32,
+            "end": 390.96,
+            "text": " rail head, this is the housing, this is the housing rod, this is trip dog, this is trip"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 390.96,
+            "end": 397.4,
+            "text": " dog in lever, reversing lever, this is a table, these are T-slots, there is T-slots, in this"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 397.4,
+            "end": 401.12,
+            "text": " T-slots these are two trip dogs that can be fitted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 401.12,
+            "end": 406.0,
+            "text": " So this distance between these two trip dog determines the length of stroke."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 406.0,
+            "end": 407.56,
+            "text": " So you can change it according to your requirement."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 407.56,
+            "end": 413.24,
+            "text": " You can increase it or you can decrease it as is required."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 413.24,
+            "end": 414.64,
+            "text": " So what are the different types of planer?"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 414.64,
+            "end": 418.32,
+            "text": " You can have double housing planer that means there are two housing on both sides of the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 418.32,
+            "end": 420.24,
+            "text": " bed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 420.24,
+            "end": 429.08,
+            "text": " And on this type of planer can support and use different types of tool heads and multiple"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 429.08,
+            "end": 430.8,
+            "text": " cuts can be taken."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 430.8,
+            "end": 432.24,
+            "text": " So open side planer."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 432.24,
+            "end": 436.16,
+            "text": " In open sided planer there is only one housing."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 436.16,
+            "end": 441.08000000000004,
+            "text": " So this allows for larger breadth of the workpiece that can be accommodated in the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 441.08000000000004,
+            "end": 444.08000000000004,
+            "text": " planer."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 444.08000000000004,
+            "end": 448.28000000000003,
+            "text": " And pit planer, this is particularly for large length workpieces."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 448.28000000000003,
+            "end": 452.24,
+            "text": " Here the table does not reciprocate rather the rail, there is a rail which reciprocates"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 452.24,
+            "end": 455.68,
+            "text": " over the workpiece."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 455.68,
+            "end": 459.8,
+            "text": " And divided table, so this is particularly a high production machine where there are"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 459.8,
+            "end": 461.48,
+            "text": " two tables."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 461.48,
+            "end": 468.56,
+            "text": " So both table can move independently and here in one of the table the workpiece is being"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 468.56,
+            "end": 473.08000000000004,
+            "text": " machine and in other table the workpiece is mounted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 473.08000000000004,
+            "end": 476.96000000000004,
+            "text": " So once mounting is over and other is over, they can interchange."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 476.96000000000004,
+            "end": 478.68,
+            "text": " So this saves time."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 478.68,
+            "end": 486.64000000000004,
+            "text": " So actually work holding in a planer is a time taking process because you have to tightly"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 486.64,
+            "end": 492.76,
+            "text": " and rigidly hold the workpiece on the planer because the table carrying the work reciprocates."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 492.76,
+            "end": 497.76,
+            "text": " So if there is not properly held then accidents may happen."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 497.76,
+            "end": 502.18,
+            "text": " So work holding is very very tedious in planer machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 502.18,
+            "end": 504.03999999999996,
+            "text": " So this is double housing planer."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 504.03999999999996,
+            "end": 509.56,
+            "text": " You can see this is the bed, this is the table, these are the housings, housings on both sides"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 509.56,
+            "end": 513.28,
+            "text": " so it is called a double housing planer and there are rail heads, these are called rail"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 513.28,
+            "end": 515.16,
+            "text": " heads and these are called side heads."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 515.16,
+            "end": 520.4399999999999,
+            "text": " So four tools are there and these four tools can simultaneously take cuts."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 520.4399999999999,
+            "end": 527.1999999999999,
+            "text": " And here this table, the size of the bed is almost twice the size of the table or the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 527.1999999999999,
+            "end": 528.56,
+            "text": " length of the table rather."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 528.56,
+            "end": 532.0,
+            "text": " The length of the bed is almost twice the length of the table because the table reciprocates"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 532.0,
+            "end": 533.8,
+            "text": " on the bed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 533.8,
+            "end": 538.56,
+            "text": " And there are trip dogs, this is trip dogs and this is reversing lever."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 538.56,
+            "end": 543.28,
+            "text": " So at the end of the stroke it will strike and the lever will change the belts and the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 543.4,
+            "end": 546.76,
+            "text": " direction of movement of the table will change."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 546.76,
+            "end": 549.4399999999999,
+            "text": " So these are trip dogs."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 549.4399999999999,
+            "end": 559.24,
+            "text": " So this is a feed mechanism, this is a feed disc which drives this thing, this screw and"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 559.24,
+            "end": 563.88,
+            "text": " this will move according to the requirement."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 563.88,
+            "end": 568.12,
+            "text": " Okay there is a rack here number 20, please identify this table rack."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 568.12,
+            "end": 570.8399999999999,
+            "text": " So the mechanism is ultimately fitted to this."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 570.84,
+            "end": 575.0400000000001,
+            "text": " The rotator mechanism we are using that transmits the motion to this rack and this rack causes"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 575.0400000000001,
+            "end": 577.9200000000001,
+            "text": " the table to reciprocate."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 577.9200000000001,
+            "end": 581.2800000000001,
+            "text": " The rotary motion is converted into linear motion by rack and pinion arrangement."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 581.2800000000001,
+            "end": 585.0400000000001,
+            "text": " So this rack converts the rotary motion into a linear motion."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 585.0400000000001,
+            "end": 589.72,
+            "text": " And how the quick return mechanism is achieved, we will see how the quick return mechanism"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 589.72,
+            "end": 590.72,
+            "text": " is achieved."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 590.72,
+            "end": 596.52,
+            "text": " These are the major components of a planer machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 596.52,
+            "end": 600.72,
+            "text": " Planer size, planer size is specified larger rectangular solid that can be reciprocated"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 600.72,
+            "end": 602.0799999999999,
+            "text": " under the tool."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 602.0799999999999,
+            "end": 606.1999999999999,
+            "text": " So it varies slightly from double housing planer to open sided planer depending on what"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 606.1999999999999,
+            "end": 607.1999999999999,
+            "text": " we are specifying."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 607.1999999999999,
+            "end": 610.76,
+            "text": " So you can go through it."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 610.76,
+            "end": 617.0799999999999,
+            "text": " Work holding, work holding is very, very important in a planer machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 617.0799999999999,
+            "end": 623.72,
+            "text": " And in a planer we do not use vices rather we directly mount the workpiece on the table."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 623.72,
+            "end": 631.76,
+            "text": " There are T-slots provided on the table and the workpieces are held rigidly and tightly"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 631.76,
+            "end": 634.84,
+            "text": " so that it should not move during the reciprocations."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 634.84,
+            "end": 640.48,
+            "text": " You have to understand that the large size workpiece are held on the table and are reciprocated."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 640.48,
+            "end": 642.84,
+            "text": " So the momentum is quite high."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 642.84,
+            "end": 645.72,
+            "text": " So if it is not rigidly held, accidents may happen."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 645.72,
+            "end": 650.9200000000001,
+            "text": " So work holding is very, very important in planer machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 650.92,
+            "end": 653.9599999999999,
+            "text": " With this we move on to the planer drive mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 653.9599999999999,
+            "end": 660.7199999999999,
+            "text": " So again just like how I teach mechanisms, here I will explain the walking, construction"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 660.7199999999999,
+            "end": 663.4799999999999,
+            "text": " first and then I will explain the walking."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 663.4799999999999,
+            "end": 669.04,
+            "text": " So as I point out the components, you try to identify the components in the figure."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 669.04,
+            "end": 674.5999999999999,
+            "text": " So note that there is a loose pulley 1 and tight pulley 2."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 674.5999999999999,
+            "end": 680.4,
+            "text": " Tight pulley 2 means on the shaft 2, on the shaft 3, 2 is mounted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 680.4,
+            "end": 683.68,
+            "text": " So if 2 rotates, 3 rotates or if 3 rotates, 2 rotates."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 683.68,
+            "end": 689.84,
+            "text": " And if 3 rotates or 2 rotates, it does not have any impact on 1."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 689.84,
+            "end": 692.9599999999999,
+            "text": " And on the same shaft 3, there are other 2 pulleys."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 692.9599999999999,
+            "end": 699.16,
+            "text": " Pulley 4 and pulley 5 are also mounted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 699.16,
+            "end": 706.8,
+            "text": " Now and the pulley 4, smaller pulley 4, 4 and 5 are different in diameter and pulley"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 706.8,
+            "end": 711.52,
+            "text": " 4 is small and pulley 5 is larger."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 711.52,
+            "end": 712.56,
+            "text": " This is by design."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 712.56,
+            "end": 714.4799999999999,
+            "text": " This is not by chance."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 714.4799999999999,
+            "end": 720.28,
+            "text": " So it is intentionally made smaller and pulley 4 matches with another pulley 11 which is"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 720.28,
+            "end": 725.16,
+            "text": " fixed here, which is a fixed pulley on shaft 22."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 725.16,
+            "end": 728.0,
+            "text": " On shaft 22, 11 is fixed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 728.0,
+            "end": 735.88,
+            "text": " So power is transmitted from pulley 4 to pulley 11 using a cross belt drive, using"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 735.88,
+            "end": 740.28,
+            "text": " a cross belt drive in the current position."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 740.28,
+            "end": 749.8,
+            "text": " And pulley 5 is fixed on shaft 3, is connected to a pulley 9 which is loose, running loose"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 749.8,
+            "end": 754.6,
+            "text": " on shaft 22, which is running loose on shaft 22."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 754.6,
+            "end": 757.24,
+            "text": " There are other 2 pulleys in this shaft 22."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 757.24,
+            "end": 764.72,
+            "text": " Pulley number 10 which is a fixed pulley and pulley number 12 which is a loose pulley."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 764.72,
+            "end": 771.6800000000001,
+            "text": " Okay, now 22, the shaft 22 is connected to the rack 15."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 771.6800000000001,
+            "end": 775.52,
+            "text": " In the previous figure I have shown you, in the construction of planer, there is a rack"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 775.52,
+            "end": 777.4,
+            "text": " below the bed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 777.4,
+            "end": 780.72,
+            "text": " This 15 is connected to 14 here."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 780.72,
+            "end": 786.96,
+            "text": " And it is a gear train, so the motion of this shaft 22 is ultimately transmitted to"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 786.96,
+            "end": 792.44,
+            "text": " 14 and 14 drives the table using the pinion, so rack 15."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 792.44,
+            "end": 798.88,
+            "text": " So linear rotary motion of the 14 is converted to linear motion of the rack 15 at the table,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 798.88,
+            "end": 800.0,
+            "text": " 19."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 800.0,
+            "end": 809.24,
+            "text": " So there is a trip dog 18 and a lever, that is, belt shifting lever 17."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 809.24,
+            "end": 811.08,
+            "text": " So this is the components."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 811.08,
+            "end": 812.6,
+            "text": " Now let us see the working."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 812.6,
+            "end": 818.52,
+            "text": " So here, currently, let us say the power from the motor is transmitted to the shaft 2, which"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 818.52,
+            "end": 821.4,
+            "text": " is fixed on the shaft 3."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 821.4,
+            "end": 825.0,
+            "text": " Now you can shift it here and you can stop the machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 825.0,
+            "end": 829.0600000000001,
+            "text": " So once the machine, when the belt is in 2, the machine is running."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 829.0600000000001,
+            "end": 832.04,
+            "text": " So you can stop and start the machine by shifting the belt."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 832.04,
+            "end": 836.28,
+            "text": " Now let us say the belt is in 2 and shaft 3 is rotating."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 836.28,
+            "end": 838.8,
+            "text": " So when shaft 3 is rotating, 4 and 5 are rotating."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 839.3599999999999,
+            "end": 845.16,
+            "text": " Now when 4 is rotating, the power is transmitted to the shaft 11, so shaft, sorry, yes, pulley"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 845.16,
+            "end": 852.5999999999999,
+            "text": " 11 and the pulley 11 rotates, which in turn rotates the shaft 22 and it drives the rack"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 852.5999999999999,
+            "end": 853.5999999999999,
+            "text": " 15 ultimately."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 853.5999999999999,
+            "end": 857.52,
+            "text": " The shaft, it is, forward stroke is taking place."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 857.52,
+            "end": 860.76,
+            "text": " So forward stroke is taking place."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 860.76,
+            "end": 866.7199999999999,
+            "text": " At the end of the forward stroke, at the end of the forward stroke, this trip dog is set"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 866.72,
+            "end": 871.36,
+            "text": " and it strikes the belt shifting lever."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 871.36,
+            "end": 875.12,
+            "text": " Once it strikes the belt shifting lever, this is the belt shifting lever, so it will shift"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 875.12,
+            "end": 876.48,
+            "text": " the belt."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 876.48,
+            "end": 883.0,
+            "text": " So the belt will now, at the end of the stroke, forward stroke, the belt will shift from fast"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 883.0,
+            "end": 890.5600000000001,
+            "text": " pulley 11 to loose pulley 12 and from loose pulley 9 to fast pulley 10."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 890.5600000000001,
+            "end": 893.48,
+            "text": " Now it is a cross belt drive and it is an open belt drive."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 893.48,
+            "end": 896.4200000000001,
+            "text": " Obviously the direction of rotation will be different."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 897.12,
+            "end": 900.74,
+            "text": " Now the power will not be transmitted from 4, rather the power will be transmitted from"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 900.74,
+            "end": 905.8199999999999,
+            "text": " 5 to the fast pulley 10 and it will move in a reverse direction."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 905.8199999999999,
+            "end": 909.0999999999999,
+            "text": " So return stroke will take place."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 909.0999999999999,
+            "end": 913.4599999999999,
+            "text": " So this is how the planar drive mechanism actually works."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 913.4599999999999,
+            "end": 915.5,
+            "text": " Now how this is a quick return mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 915.5,
+            "end": 919.06,
+            "text": " Now during the forward stroke, you want maximum power and less speed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 919.06,
+            "end": 923.02,
+            "text": " So therefore you are using a cross belt drive because the contact area between the belt"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 923.02,
+            "end": 924.74,
+            "text": " and the pulley is maximum."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 924.74,
+            "end": 929.78,
+            "text": " So maximum power is transmitted and less speed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 929.78,
+            "end": 936.1,
+            "text": " Whereas in a, and see here from small pulley to large pulley, so less speed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 936.1,
+            "end": 940.66,
+            "text": " Whereas in a from large pulley to small pulley, the speed is high and it is open belt drive."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 940.66,
+            "end": 942.74,
+            "text": " So here less power and more speed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 942.74,
+            "end": 945.7,
+            "text": " So during the return stroke, it returns faster."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 945.7,
+            "end": 951.98,
+            "text": " So this is how the quick return mechanism works in this type of mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 951.98,
+            "end": 954.34,
+            "text": " So it is not necessary, this is one of the mechanism of a planar."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 954.94,
+            "end": 957.5,
+            "text": " It is not necessary that all planars will have this mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 957.5,
+            "end": 963.38,
+            "text": " This is one of the mechanism that is implemented on certain types of planars."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 963.38,
+            "end": 971.1800000000001,
+            "text": " There are other mechanisms also which can be implemented in a planar."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 971.1800000000001,
+            "end": 972.1800000000001,
+            "text": " Okay the feed mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 972.1800000000001,
+            "end": 973.1800000000001,
+            "text": " Okay."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 973.1800000000001,
+            "end": 976.26,
+            "text": " Now one more thing here I want you to know that as this is rotating, there is a number"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 976.26,
+            "end": 980.38,
+            "text": " 16 which is called the feed disc."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 980.38,
+            "end": 982.26,
+            "text": " Number 16 is called the feed disc."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 982.26,
+            "end": 983.26,
+            "text": " So what is this?"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 983.26,
+            "end": 984.26,
+            "text": " This is very important."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 984.26,
+            "end": 988.3,
+            "text": " Number 16 which is connected to shaft 23."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 988.3,
+            "end": 989.3,
+            "text": " This is shaft 23."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 989.3,
+            "end": 993.74,
+            "text": " Now let us come back to this figure."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 993.74,
+            "end": 994.8199999999999,
+            "text": " Come back to this figure."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 994.8199999999999,
+            "end": 996.8199999999999,
+            "text": " So here this is shaft 23."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 996.8199999999999,
+            "end": 1000.54,
+            "text": " That is shaft, it is indicated here by 5."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1000.54,
+            "end": 1004.86,
+            "text": " That shaft 23 is shaft 5 here."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1004.86,
+            "end": 1012.42,
+            "text": " Now here the power for feed mechanism is transmitted by a flexible coupling mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1012.42,
+            "end": 1016.26,
+            "text": " Now this flexible coupling mechanism is achieved by a flange."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1016.26,
+            "end": 1022.54,
+            "text": " There is a flange which is inserted into a rotary disc, circular hole."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1022.54,
+            "end": 1027.42,
+            "text": " In this disc is inserted, this flange is inserted and there is a rubber padding here."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1027.42,
+            "end": 1033.06,
+            "text": " So what happens during one half of the rotation, it transmits the power and drives the cross"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1033.26,
+            "end": 1038.74,
+            "text": " feed screw and in the other half, during the return stroke, part of the return stroke,"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1038.74,
+            "end": 1045.22,
+            "text": " it drives the cross feed screw and the rest of the time it remains inactive and does not"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1045.22,
+            "end": 1046.22,
+            "text": " transmit any power."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1046.22,
+            "end": 1051.26,
+            "text": " Rather it slips over the leather padding."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1051.26,
+            "end": 1057.1799999999998,
+            "text": " So here you can see the flange 4 is connected to shaft 23 in the previous slide."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1057.1799999999998,
+            "end": 1058.1799999999998,
+            "text": " Here it is 5."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1058.78,
+            "end": 1066.0600000000002,
+            "text": " It is connected by 2 bolts here, number 4, number 2 and 16 is this block 16."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1066.0600000000002,
+            "end": 1071.94,
+            "text": " This is the feed disc which I have shown you in the previous diagram."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1071.94,
+            "end": 1076.98,
+            "text": " This is the feed disc, same disc is shown here and on top of this, there is a leather"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1076.98,
+            "end": 1079.74,
+            "text": " side on which this block is mounted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1079.74,
+            "end": 1080.74,
+            "text": " Block 1 is mounted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1080.74,
+            "end": 1083.5,
+            "text": " This block 1 is connected to a connecting rod 15."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1083.5,
+            "end": 1088.9,
+            "text": " It is connected to a connecting rod 15 which is connected to a rack 14 and rack 14 meshes"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1088.9,
+            "end": 1096.62,
+            "text": " with another shaft, another gear which is gear number."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1096.62,
+            "end": 1100.7,
+            "text": " This is the gear on which it is meshes."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1100.7,
+            "end": 1103.34,
+            "text": " This gear, it meshes, rack meshes with this gear."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1103.34,
+            "end": 1107.94,
+            "text": " On this gear, it is mounted on a shaft 12."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1107.94,
+            "end": 1112.7,
+            "text": " On this same shaft, gear 9 is mounted and gear 10 is mounted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1112.9,
+            "end": 1117.8600000000001,
+            "text": " 10 is running loose on this shaft and gear 9 is fixed."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1117.8600000000001,
+            "end": 1124.42,
+            "text": " So if shaft 12 rotates, gear 9 rotates and it does not transmit motion to the gear 10."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1124.42,
+            "end": 1131.38,
+            "text": " So in this gear 10, there is a double sided pawl is fitted."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1131.38,
+            "end": 1132.7,
+            "text": " This is called double pawl."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1132.7,
+            "end": 1139.7,
+            "text": " You can insert this side or this side in the gear teeth 9."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1139.7,
+            "end": 1143.06,
+            "text": " In any of the gear teeth 9."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1143.06,
+            "end": 1144.06,
+            "text": " Now let us see what happens."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1144.06,
+            "end": 1145.5,
+            "text": " This is the forward stroke."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1145.5,
+            "end": 1148.78,
+            "text": " During the forward stroke, it will rotate in this direction."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1148.78,
+            "end": 1154.38,
+            "text": " So the power from here, the power is being transmitted, so this will also rotate."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1154.38,
+            "end": 1159.1000000000001,
+            "text": " As this rotates by friction between the pad and this flange, the power will be transmitted"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1159.1,
+            "end": 1162.82,
+            "text": " to the disc and this will rotate here in this direction."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1162.82,
+            "end": 1168.58,
+            "text": " So as it comes down, now here as it comes down, the connecting rod will come down, so"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1168.58,
+            "end": 1172.26,
+            "text": " this rack will come down."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1172.26,
+            "end": 1177.06,
+            "text": " And we will fit this hand, let us say here, so this will rotate in."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1177.06,
+            "end": 1181.54,
+            "text": " If this comes down, so this will rotate in this direction."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1181.54,
+            "end": 1184.54,
+            "text": " And this hand is fixed here."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1184.54,
+            "end": 1188.82,
+            "text": " The left hand is slid inside this here."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1189.54,
+            "end": 1194.74,
+            "text": " So when it comes down, this slides and no movement is transferred to the gear 11."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1194.74,
+            "end": 1200.26,
+            "text": " However, and the rest of the time, it is stopped by, after a period of rotation, it is stopped"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1200.26,
+            "end": 1203.98,
+            "text": " by a stopper 7, fixed pin 7."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1203.98,
+            "end": 1207.74,
+            "text": " Now at the end of the return stroke, forward stroke, it returns."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1207.74,
+            "end": 1208.74,
+            "text": " So the direction changes."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1208.74,
+            "end": 1211.74,
+            "text": " When the direction changes, it returns in reverse direction."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1211.74,
+            "end": 1216.26,
+            "text": " In reverse direction, the crank, it will move up and this rack will move up."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1216.26,
+            "end": 1224.22,
+            "text": " When it moves up, the gear 9 will give a positive motion to the gear 11 through the"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1224.22,
+            "end": 1226.5,
+            "text": " pawl 10."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1226.5,
+            "end": 1235.62,
+            "text": " As a result, this shaft 4 will move because it masses and cross feed will be given."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1235.62,
+            "end": 1237.5,
+            "text": " So this is how it works."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1237.5,
+            "end": 1240.46,
+            "text": " The planar feed mechanism works in a planar."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1240.46,
+            "end": 1242.06,
+            "text": " So this is one of the mechanisms."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1242.06,
+            "end": 1246.06,
+            "text": " Not necessary that all planar machines will be using this feed mechanism."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1246.86,
+            "end": 1251.78,
+            "text": " This is one of the feed mechanism which can be implemented in a planar."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1251.78,
+            "end": 1254.22,
+            "text": " So comparison of separ and planar."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1254.22,
+            "end": 1256.3,
+            "text": " The planar is specially adapted for large work."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1256.3,
+            "end": 1258.1,
+            "text": " Separ can do only small work."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1258.1,
+            "end": 1260.82,
+            "text": " Planar, the work is moved against the stationary tool."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1260.82,
+            "end": 1264.82,
+            "text": " On separ, the tool moves across the work which is stationary."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1264.82,
+            "end": 1269.06,
+            "text": " On planar, tool is fed to the work and on separ, the work is fed to the tool."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1269.06,
+            "end": 1271.86,
+            "text": " The drive on the planar is either by gears or by hydraulic machines."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1271.86,
+            "end": 1274.94,
+            "text": " The separ ramp can also be driven in this manner."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1274.94,
+            "end": 1278.22,
+            "text": " But many a times, a quick return mechanism is used."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1278.22,
+            "end": 1282.22,
+            "text": " Most planar deforms of separ is that they approach a more constant cutting velocity."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1282.22,
+            "end": 1286.06,
+            "text": " In planar, the tool is rigidly supported and the work moves on precision guideways."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1286.06,
+            "end": 1291.74,
+            "text": " This gives much more accuracy in comparison with separ where there is a cantilever thing"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1291.74,
+            "end": 1293.46,
+            "text": " happens and there is overhanging happens."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1293.46,
+            "end": 1297.54,
+            "text": " So accuracy is compromised and surface finish is compromised."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1297.54,
+            "end": 1306.1,
+            "text": " So multiple tool can cut in a planar which is not possible in a separ machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1306.1,
+            "end": 1310.1,
+            "text": " In planar, work setting requires skill and time whereas separ work setting is very very"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1310.1,
+            "end": 1311.1,
+            "text": " easy."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1311.1,
+            "end": 1315.42,
+            "text": " Tool used in planar outpost will be much more robust because the work we are using is larger."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1315.42,
+            "end": 1318.94,
+            "text": " Of course, the planar machine is much heavier and costlier than separ machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1318.94,
+            "end": 1322.3799999999999,
+            "text": " So these are the some of the comparison between separ and planar which is very often asked"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1322.3799999999999,
+            "end": 1324.0,
+            "text": " in the examination."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1324.0,
+            "end": 1329.0,
+            "text": " So you can write these comparisons and what are the different operations that can be performed"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1329.0,
+            "end": 1330.0,
+            "text": " on a planar machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1330.0,
+            "end": 1332.84,
+            "text": " You can machine horizontals just like separ."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1332.84,
+            "end": 1337.32,
+            "text": " All these operations that can be performed in separ machine can also be performed on"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1337.32,
+            "end": 1344.08,
+            "text": " a planar machine but the accuracy is high and the work piece are much larger compared"
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1344.08,
+            "end": 1346.64,
+            "text": " to that what we do in separ machine."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1346.64,
+            "end": 1349.24,
+            "text": " So this is all about slotter and planar."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1349.24,
+            "end": 1353.04,
+            "text": " I hope you have liked this lecture."
+        },
+        {
+            "number": "11",
+            "title": "Manufacturing Proces",
+            "start": 1353.04,
+            "end": 1354.3999999999999,
+            "text": " Thank you for watching."
+        }
+    ],
+    "text": " Welcome to Manufacturing Processes, Machining and Machine Tools lectures by Professor Joy G Tagosh. This is the eleventh lecture of a series of lectures. This lecture will be on Slaughter and Planar Machine. He will be discussing functioning of a slaughter machine, comparison of shaper and slaughter, specification of slaughter machine, operations that can be performed on a slaughter machine, functioning of a planar machine, types of planar machines, components of a planar machine, planar size, work holding, planar drive mechanism, planar feed mechanism, comparison of shapers and planars and planar operations. So, do not miss and watch the full video. For the next video in the lecture series, please click the suggested video link above. You may also click on the playlist at end of the video to access my videos. Please subscribe this channel and yes, do not forget to like and share. Also click on the bell icon to receive instant information of new videos uploaded. Thank you. Hello friends, welcome to this lecture. In this lecture, we will be discussing the slaughter machine and the planar machine. So let us start. A slaughter machine just like a shaper machine works just like a shaper machine and does job similar which is done on a shaper machine. And therefore it is also referred to as a vertical shaper. Slaughter machine was invented much before shaper machine was invented. It was invented by a person called Brunel in the year 1800. So the major differences between a shaper and a slaughter is that in a slaughter machine, we have a rotary table and because we have a rotary table, the rotary field can be given. So a circular surface can be machined compared to that of a shaper machine which is not possible in a shaper machine. And the ram here travels in a vertical plane. So the ram moves up and down. So downward stroke is the cutting stroke and upward stroke is the return stroke. And like shaper, the upward stroke has to return fast to reduce the non-productive time And therefore here also we use a quick return mechanism. It can be a quick return mechanism or it can be a crank and slaughter link mechanism. So I will show you the picture in the next slide. And shaper machine unlike slaughter machine can cut internal surfaces also provided the tool and the hole is enough to accommodate the tool to enter the workpiece. It is used for cutting flat surfaces, particles, inclined etc. etc. It is also used for cutting cubase and making slots, both internal and external surfaces. So these are some of the differences between shaper and slaughter. This is a slaughter machine. As you can see this is a circular table and we can give a circular feed. This is the ram which reciprocates and it also uses during the downward stroke it cuts and during upward stroke it does not cut. Now since the weight is coming down there is a counterbalance added to the slaughter machine which is not there in a shaper machine. I will show you a picture of a slaughter which has this is the counterweight. So this ram comes down along with the tool and this is a circular table here. So some of the differences between shaper and slaughter are that shaper is horizontal, slaughter is ram travels vertical in a slaughter. Shaper has a rectangular type of table whereas there is circular table in case of a slaughter and because there is circular table circular feed can be given and circular surfaces can be machined. And because of the nature of the working of the ram here moving up down so here internal surfaces can be machined which is not possible in a shaper machine. In a slaughter machine there is counterweight to balance the weight moving down of the ram. So these are difference between a shaper and a slaughter. This is the quick return mechanism you can see this is the connecting rod sorry this is slotted link and this is the crank pin this is the block fitted in the slot of the machine. This is the lock around and this is the radius slide this is the pull gear this is the pinion gear. The size of a slaughter is specified with the maximum length of stroke, the height between the table and the tool head, the maximum longitudinal feed, the maximum transverse feed, the diameter of the table these are the things that is normally specified a slaughter machine. What are the operations that can be performed in a slaughter machine is that it can machine flat surfaces external, internal, vertical etc. and it can machine circular surfaces also using rotary table. It can machine slots, skewage groups. These are the some of the operations that can be performed on a slaughter machines. With this we move on to the planer machine. Planer also is used to make surfaces flat so it generates flat surfaces or machines flat surfaces both vertical and horizontal it may be inclined also but there are some differences between the working of a sepa machine and a planer machine. Planer machine is a production type machine intended for accurate machining of surfaces on large surface. So some of the typical application of sepa machine may be machining of machine bed columns, diesel engine blocks, bending plates etc. So this typical diagram shows a double housing planer. We will see what is a double housing planer. This is double housing planer installed in our shop. This is the table which is located on this bed and this is the cross rail, this is the rail head, this is the housing, this is the housing rod, this is trip dog, this is trip dog in lever, reversing lever, this is a table, these are T-slots, there is T-slots, in this T-slots these are two trip dogs that can be fitted. So this distance between these two trip dog determines the length of stroke. So you can change it according to your requirement. You can increase it or you can decrease it as is required. So what are the different types of planer? You can have double housing planer that means there are two housing on both sides of the bed. And on this type of planer can support and use different types of tool heads and multiple cuts can be taken. So open side planer. In open sided planer there is only one housing. So this allows for larger breadth of the workpiece that can be accommodated in the planer. And pit planer, this is particularly for large length workpieces. Here the table does not reciprocate rather the rail, there is a rail which reciprocates over the workpiece. And divided table, so this is particularly a high production machine where there are two tables. So both table can move independently and here in one of the table the workpiece is being machine and in other table the workpiece is mounted. So once mounting is over and other is over, they can interchange. So this saves time. So actually work holding in a planer is a time taking process because you have to tightly and rigidly hold the workpiece on the planer because the table carrying the work reciprocates. So if there is not properly held then accidents may happen. So work holding is very very tedious in planer machine. So this is double housing planer. You can see this is the bed, this is the table, these are the housings, housings on both sides so it is called a double housing planer and there are rail heads, these are called rail heads and these are called side heads. So four tools are there and these four tools can simultaneously take cuts. And here this table, the size of the bed is almost twice the size of the table or the length of the table rather. The length of the bed is almost twice the length of the table because the table reciprocates on the bed. And there are trip dogs, this is trip dogs and this is reversing lever. So at the end of the stroke it will strike and the lever will change the belts and the direction of movement of the table will change. So these are trip dogs. So this is a feed mechanism, this is a feed disc which drives this thing, this screw and this will move according to the requirement. Okay there is a rack here number 20, please identify this table rack. So the mechanism is ultimately fitted to this. The rotator mechanism we are using that transmits the motion to this rack and this rack causes the table to reciprocate. The rotary motion is converted into linear motion by rack and pinion arrangement. So this rack converts the rotary motion into a linear motion. And how the quick return mechanism is achieved, we will see how the quick return mechanism is achieved. These are the major components of a planer machine. Planer size, planer size is specified larger rectangular solid that can be reciprocated under the tool. So it varies slightly from double housing planer to open sided planer depending on what we are specifying. So you can go through it. Work holding, work holding is very, very important in a planer machine. And in a planer we do not use vices rather we directly mount the workpiece on the table. There are T-slots provided on the table and the workpieces are held rigidly and tightly so that it should not move during the reciprocations. You have to understand that the large size workpiece are held on the table and are reciprocated. So the momentum is quite high. So if it is not rigidly held, accidents may happen. So work holding is very, very important in planer machine. With this we move on to the planer drive mechanism. So again just like how I teach mechanisms, here I will explain the walking, construction first and then I will explain the walking. So as I point out the components, you try to identify the components in the figure. So note that there is a loose pulley 1 and tight pulley 2. Tight pulley 2 means on the shaft 2, on the shaft 3, 2 is mounted. So if 2 rotates, 3 rotates or if 3 rotates, 2 rotates. And if 3 rotates or 2 rotates, it does not have any impact on 1. And on the same shaft 3, there are other 2 pulleys. Pulley 4 and pulley 5 are also mounted. Now and the pulley 4, smaller pulley 4, 4 and 5 are different in diameter and pulley 4 is small and pulley 5 is larger. This is by design. This is not by chance. So it is intentionally made smaller and pulley 4 matches with another pulley 11 which is fixed here, which is a fixed pulley on shaft 22. On shaft 22, 11 is fixed. So power is transmitted from pulley 4 to pulley 11 using a cross belt drive, using a cross belt drive in the current position. And pulley 5 is fixed on shaft 3, is connected to a pulley 9 which is loose, running loose on shaft 22, which is running loose on shaft 22. There are other 2 pulleys in this shaft 22. Pulley number 10 which is a fixed pulley and pulley number 12 which is a loose pulley. Okay, now 22, the shaft 22 is connected to the rack 15. In the previous figure I have shown you, in the construction of planer, there is a rack below the bed. This 15 is connected to 14 here. And it is a gear train, so the motion of this shaft 22 is ultimately transmitted to 14 and 14 drives the table using the pinion, so rack 15. So linear rotary motion of the 14 is converted to linear motion of the rack 15 at the table, 19. So there is a trip dog 18 and a lever, that is, belt shifting lever 17. So this is the components. Now let us see the working. So here, currently, let us say the power from the motor is transmitted to the shaft 2, which is fixed on the shaft 3. Now you can shift it here and you can stop the machine. So once the machine, when the belt is in 2, the machine is running. So you can stop and start the machine by shifting the belt. Now let us say the belt is in 2 and shaft 3 is rotating. So when shaft 3 is rotating, 4 and 5 are rotating. Now when 4 is rotating, the power is transmitted to the shaft 11, so shaft, sorry, yes, pulley 11 and the pulley 11 rotates, which in turn rotates the shaft 22 and it drives the rack 15 ultimately. The shaft, it is, forward stroke is taking place. So forward stroke is taking place. At the end of the forward stroke, at the end of the forward stroke, this trip dog is set and it strikes the belt shifting lever. Once it strikes the belt shifting lever, this is the belt shifting lever, so it will shift the belt. So the belt will now, at the end of the stroke, forward stroke, the belt will shift from fast pulley 11 to loose pulley 12 and from loose pulley 9 to fast pulley 10. Now it is a cross belt drive and it is an open belt drive. Obviously the direction of rotation will be different. Now the power will not be transmitted from 4, rather the power will be transmitted from 5 to the fast pulley 10 and it will move in a reverse direction. So return stroke will take place. So this is how the planar drive mechanism actually works. Now how this is a quick return mechanism. Now during the forward stroke, you want maximum power and less speed. So therefore you are using a cross belt drive because the contact area between the belt and the pulley is maximum. So maximum power is transmitted and less speed. Whereas in a, and see here from small pulley to large pulley, so less speed. Whereas in a from large pulley to small pulley, the speed is high and it is open belt drive. So here less power and more speed. So during the return stroke, it returns faster. So this is how the quick return mechanism works in this type of mechanism. So it is not necessary, this is one of the mechanism of a planar. It is not necessary that all planars will have this mechanism. This is one of the mechanism that is implemented on certain types of planars. There are other mechanisms also which can be implemented in a planar. Okay the feed mechanism. Okay. Now one more thing here I want you to know that as this is rotating, there is a number 16 which is called the feed disc. Number 16 is called the feed disc. So what is this? This is very important. Number 16 which is connected to shaft 23. This is shaft 23. Now let us come back to this figure. Come back to this figure. So here this is shaft 23. That is shaft, it is indicated here by 5. That shaft 23 is shaft 5 here. Now here the power for feed mechanism is transmitted by a flexible coupling mechanism. Now this flexible coupling mechanism is achieved by a flange. There is a flange which is inserted into a rotary disc, circular hole. In this disc is inserted, this flange is inserted and there is a rubber padding here. So what happens during one half of the rotation, it transmits the power and drives the cross feed screw and in the other half, during the return stroke, part of the return stroke, it drives the cross feed screw and the rest of the time it remains inactive and does not transmit any power. Rather it slips over the leather padding. So here you can see the flange 4 is connected to shaft 23 in the previous slide. Here it is 5. It is connected by 2 bolts here, number 4, number 2 and 16 is this block 16. This is the feed disc which I have shown you in the previous diagram. This is the feed disc, same disc is shown here and on top of this, there is a leather side on which this block is mounted. Block 1 is mounted. This block 1 is connected to a connecting rod 15. It is connected to a connecting rod 15 which is connected to a rack 14 and rack 14 meshes with another shaft, another gear which is gear number. This is the gear on which it is meshes. This gear, it meshes, rack meshes with this gear. On this gear, it is mounted on a shaft 12. On this same shaft, gear 9 is mounted and gear 10 is mounted. 10 is running loose on this shaft and gear 9 is fixed. So if shaft 12 rotates, gear 9 rotates and it does not transmit motion to the gear 10. So in this gear 10, there is a double sided pawl is fitted. This is called double pawl. You can insert this side or this side in the gear teeth 9. In any of the gear teeth 9. Now let us see what happens. This is the forward stroke. During the forward stroke, it will rotate in this direction. So the power from here, the power is being transmitted, so this will also rotate. As this rotates by friction between the pad and this flange, the power will be transmitted to the disc and this will rotate here in this direction. So as it comes down, now here as it comes down, the connecting rod will come down, so this rack will come down. And we will fit this hand, let us say here, so this will rotate in. If this comes down, so this will rotate in this direction. And this hand is fixed here. The left hand is slid inside this here. So when it comes down, this slides and no movement is transferred to the gear 11. However, and the rest of the time, it is stopped by, after a period of rotation, it is stopped by a stopper 7, fixed pin 7. Now at the end of the return stroke, forward stroke, it returns. So the direction changes. When the direction changes, it returns in reverse direction. In reverse direction, the crank, it will move up and this rack will move up. When it moves up, the gear 9 will give a positive motion to the gear 11 through the pawl 10. As a result, this shaft 4 will move because it masses and cross feed will be given. So this is how it works. The planar feed mechanism works in a planar. So this is one of the mechanisms. Not necessary that all planar machines will be using this feed mechanism. This is one of the feed mechanism which can be implemented in a planar. So comparison of separ and planar. The planar is specially adapted for large work. Separ can do only small work. Planar, the work is moved against the stationary tool. On separ, the tool moves across the work which is stationary. On planar, tool is fed to the work and on separ, the work is fed to the tool. The drive on the planar is either by gears or by hydraulic machines. The separ ramp can also be driven in this manner. But many a times, a quick return mechanism is used. Most planar deforms of separ is that they approach a more constant cutting velocity. In planar, the tool is rigidly supported and the work moves on precision guideways. This gives much more accuracy in comparison with separ where there is a cantilever thing happens and there is overhanging happens. So accuracy is compromised and surface finish is compromised. So multiple tool can cut in a planar which is not possible in a separ machine. In planar, work setting requires skill and time whereas separ work setting is very very easy. Tool used in planar outpost will be much more robust because the work we are using is larger. Of course, the planar machine is much heavier and costlier than separ machine. So these are the some of the comparison between separ and planar which is very often asked in the examination. So you can write these comparisons and what are the different operations that can be performed on a planar machine. You can machine horizontals just like separ. All these operations that can be performed in separ machine can also be performed on a planar machine but the accuracy is high and the work piece are much larger compared to that what we do in separ machine. So this is all about slotter and planar. I hope you have liked this lecture. Thank you for watching."
+}
